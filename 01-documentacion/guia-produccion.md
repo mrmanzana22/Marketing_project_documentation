@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 23/10/2025, 22:01:32
+**Última sincronización:** 23/10/2025, 22:04:23
 **Total de contenidos en guía:** 6
 
 ---
@@ -13,19 +13,22 @@
 
 #### ⏳ En Preparación (1)
 
-- **iPhone 16 - Últimas Unidades (Conversión)**
-  - Formato: 🎥 Video
+##### iPhone 16 - Últimas Unidades (Conversión)
 
+**Formato:** 🎥 Video
+
+---
 
 ### 💰 Conversión
 
 #### ⏳ En Preparación (1)
 
-- **iPhone 15 - Pocas Unidades Disponibles**
-  - Formato: 🎥 Video
+##### iPhone 15 - Pocas Unidades Disponibles
 
+**Formato:** 🎥 Video
 
 ---
+
 
 ## 🔧 SERVICIO TÉCNICO
 
@@ -35,22 +38,28 @@
 
 #### ⏳ En Preparación (1)
 
-- **Pantalla rota - Reparación profesional**
-  - Formato: 🎥 Video
+##### Pantalla rota - Reparación profesional
 
+**Formato:** 🎥 Video
+
+---
 
 ### 🔍 Evaluación
 
 #### ⏳ En Preparación (2)
 
-- **Batería que muere rápido**
-  - Formato: 🎥 Video
+##### Batería que muere rápido
 
-- **Diagnóstico completo GRATIS**
-  - Formato: 📸 Imagen
-
+**Formato:** 🎥 Video
 
 ---
+
+##### Diagnóstico completo GRATIS
+
+**Formato:** 📸 Imagen
+
+---
+
 
 ## 📊 ESTADÍSTICAS DE LA GUÍA
 

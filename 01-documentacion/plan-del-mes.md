@@ -1,6 +1,6 @@
 # 📅 PLAN DEL MES - PRODUCCIÓN DE CONTENIDO
 
-**Última sincronización:** 23/10/2025, 19:24:29
+**Última sincronización:** 23/10/2025, 19:25:05
 **Total de contenidos planificados:** 6
 
 ---
@@ -21,7 +21,7 @@
 - **Fase:** Conversión
 - **Formato:** Video
 - **Producto/Servicio:** iPhone 14
-- **Estado:** ✅ Publicado
+- **Estado:** 🟡 Listo para Producir
 
 #### Pantalla rota - Reparación profesional
 - **Línea:** 🔧 Servicio Técnico
@@ -62,9 +62,9 @@
 ### 📈 Por Estado:
 - ⚪ **Por Hacer:** 3
 - 🔵 **En Preparación:** 2
-- 🟡 **Listo para Producir:** 0
+- 🟡 **Listo para Producir:** 1
 - 🟢 **Producido:** 0
-- ✅ **Publicado:** 1
+- ✅ **Publicado:** 0
 
 ### 🎯 Por Línea:
 - 🛒 **Ventas:** 2
@@ -81,8 +81,8 @@
 
 ### 📊 Progreso General:
 - **Total de contenidos:** 6
-- **Completados (Producido + Publicado):** 1
-- **Progreso:** 17% `███░░░░░░░░░░░░░░░░░`
+- **Completados (Producido + Publicado):** 0
+- **Progreso:** 0% `░░░░░░░░░░░░░░░░░░░░`
 
 ---
 *Documento generado automáticamente desde Notion - Base "Plan del Mes"*

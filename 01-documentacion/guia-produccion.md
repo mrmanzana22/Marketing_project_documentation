@@ -1,83 +1,37 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 23/10/2025, 23:20:22
-**Total de contenidos en guía:** 6
+**Última sincronización:** 23/10/2025, 23:22:13
+**Total de contenidos en guía:** 1
 
 ---
 
-## 🛒 VENTAS
+## 📍 SIN LÍNEA
 
-**Total en esta línea:** 2 contenidos
+**Total en esta línea:** 1 contenidos
 
-### 🔍 Evaluación
-
-#### ⏳ En Preparación (1)
-
-- **iPhone 16 - Últimas Unidades (Conversión)**
-  - Formato: 🎥 Video
-
-
-### 💰 Conversión
-
-#### ⏳ En Preparación (1)
-
-- **iPhone 15 - Pocas Unidades Disponibles**
-  - Formato: 🎥 Video
-
-
----
-
-## 🔧 SERVICIO TÉCNICO
-
-**Total en esta línea:** 4 contenidos
-
-### 👋 Presentación
-
-#### ⏳ En Preparación (1)
-
-- **Pantalla rota - Reparación profesional**
-  - Formato: 🎥 Video
-
-
-### 🔍 Evaluación
-
-#### ⏳ En Preparación (2)
-
-- **Batería que muere rápido**
-  - Formato: 🎥 Video
-
-- **Diagnóstico completo GRATIS**
-  - Formato: 📸 Imagen
-
-
-### 💰 Conversión
-
-#### ⏳ En Preparación (1)
-
-- **Cristal Trasero Roto - Reparación con Láser**
-  - Formato: 🎥 Video
-
-
----
 
 ## 📊 ESTADÍSTICAS DE LA GUÍA
 
 ### 📈 Por Estado de Preparación:
 - ✅ **Listos para Producir:** 0
-- ⏳ **En Preparación:** 6
+- ⏳ **En Preparación:** 1
 
 ### 🎯 Por Línea:
-- 🛒 **Ventas:** 2
-- 🔧 **Servicio Técnico:** 4
+- 🛒 **Ventas:** 0
+- 🔧 **Servicio Técnico:** 0
 
 ### 📱 Por Formato:
-- 🎥 **Video:** 5
-- 📸 **Imagen:** 1
+- ❓ **No especificado:** 1
+
+### 📝 Contenido de Guiones:
+- ✅ **Con guion completo:** 0
+- ⚠️ **Sin guion:** 1
 
 ### 📊 Progreso de Preparación:
-- **Total de contenidos:** 6
+- **Total de contenidos:** 1
 - **Listos para producir:** 0
 - **Porcentaje listo:** 0% `░░░░░░░░░░░░░░░░░░░░`
+- **Con guion completo:** 0%
 
 ---
 *Documento generado automáticamente desde Notion - Base "🎬 Guía de Producción"*

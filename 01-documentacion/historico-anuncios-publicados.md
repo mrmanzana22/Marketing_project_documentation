@@ -1,6 +1,6 @@
 # 📋 HISTÓRICO DE ANUNCIOS PUBLICADOS
 
-**Última sincronización:** 23/10/2025, 16:07:27
+**Última sincronización:** 23/10/2025, 16:10:27
 **Total anuncios:** 26
 
 ---
@@ -107,7 +107,7 @@ Este anuncio está planeado pero aún no tiene copy final asignado.
 **Performance:** Excelente ⭐
 **Categoría:** F - Problema > Solución
 **Producto/Servicio:** Diagnóstico Completo
-**Campaña:** campaña de PROMOCION OCTUBRE 2025
+**Campaña:** campaña de presentacion SERVICIO T Mr Manzana
 **🏆 GANADOR - WINNER!**
 **Fecha creación:** 20/10/2025
 **Última actualización:** Sin fecha
@@ -130,7 +130,7 @@ En Mister Manzana detectamos y solucionamos lo que realmente está fallando 🍏
 **Performance:** Excelente ⭐
 **Categoría:** F - Problema > Solución
 **Producto/Servicio:** Diagnóstico Completo
-**Campaña:** campaña de PROMOCION OCTUBRE 2025
+**Campaña:** campaña de presentacion SERVICIO T Mr Manzana
 **🏆 GANADOR - WINNER!**
 **Fecha creación:** 20/10/2025
 **Última actualización:** Sin fecha
@@ -183,7 +183,7 @@ Este anuncio está planeado pero aún no tiene copy final asignado.
 **Performance:** Excelente ⭐
 **Categoría:** F - Problema > Solución
 **Producto/Servicio:** Diagnóstico Completo
-**Campaña:** campaña de PROMOCION OCTUBRE 2025
+**Campaña:** campaña de presentacion SERVICIO T Mr Manzana
 **🏆 GANADOR - WINNER!**
 **Fecha creación:** 20/10/2025
 **Última actualización:** Sin fecha
@@ -206,7 +206,7 @@ En Mister Manzana detectamos y solucionamos lo que realmente está fallando 🍏
 **Performance:** Excelente ⭐
 **Categoría:** F - Problema > Solución
 **Producto/Servicio:** Diagnóstico Completo
-**Campaña:** campaña de PROMOCION OCTUBRE 2025
+**Campaña:** campaña de presentacion SERVICIO T Mr Manzana
 **🏆 GANADOR - WINNER!**
 **Fecha creación:** 20/10/2025
 **Última actualización:** Sin fecha
@@ -832,10 +832,11 @@ Además incluimos case, vidrio templado y cargador sin costo extra 🎁
 - **Línea Servicio Técnico:** 8
 
 ### 📈 Por Campaña:
-- **campaña de PROMOCION OCTUBRE 2025:** 8 anuncios
 - **campaña evaluacion VENTAS:** 8 anuncios
 - **campaña de presentacion VENTAS:** 6 anuncios
 - **campaña evaluacion servicio tecnico:** 4 anuncios
+- **campaña de presentacion SERVICIO T Mr Manzana:** 4 anuncios
+- **campaña de PROMOCION OCTUBRE 2025:** 4 anuncios
 
 ### 📱 Por Formato:
 - **Imagen:** 12

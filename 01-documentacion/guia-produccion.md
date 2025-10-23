@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 23/10/2025, 22:15:23
+**Última sincronización:** 23/10/2025, 22:17:53
 **Total de contenidos en guía:** 6
 
 ---
@@ -13,19 +13,26 @@
 
 #### ⏳ En Preparación (1)
 
-- **iPhone 16 - Últimas Unidades (Conversión)**
-  - Formato: 🎥 Video
+##### iPhone 16 - Últimas Unidades (Conversión)
 
+**Formato:** 🎥 Video
+
+_⚠️ Sin guion disponible_
+
+---
 
 ### 💰 Conversión
 
 #### ⏳ En Preparación (1)
 
-- **iPhone 15 - Pocas Unidades Disponibles**
-  - Formato: 🎥 Video
+##### iPhone 15 - Pocas Unidades Disponibles
 
+**Formato:** 🎥 Video
+
+_⚠️ Sin guion disponible_
 
 ---
+
 
 ## 🔧 SERVICIO TÉCNICO
 
@@ -35,22 +42,34 @@
 
 #### ⏳ En Preparación (1)
 
-- **Pantalla rota - Reparación profesional**
-  - Formato: 🎥 Video
+##### Pantalla rota - Reparación profesional
 
+**Formato:** 🎥 Video
+
+_⚠️ Sin guion disponible_
+
+---
 
 ### 🔍 Evaluación
 
 #### ⏳ En Preparación (2)
 
-- **Batería que muere rápido**
-  - Formato: 🎥 Video
+##### Batería que muere rápido
 
-- **Diagnóstico completo GRATIS**
-  - Formato: 📸 Imagen
+**Formato:** 🎥 Video
 
+_⚠️ Sin guion disponible_
 
 ---
+
+##### Diagnóstico completo GRATIS
+
+**Formato:** 📸 Imagen
+
+_⚠️ Sin guion disponible_
+
+---
+
 
 ## 📊 ESTADÍSTICAS DE LA GUÍA
 
@@ -66,10 +85,15 @@
 - 🎥 **Video:** 5
 - 📸 **Imagen:** 1
 
+### 📝 Contenido de Guiones:
+- ✅ **Con guion completo:** 0
+- ⚠️ **Sin guion:** 6
+
 ### 📊 Progreso de Preparación:
 - **Total de contenidos:** 6
 - **Listos para producir:** 0
 - **Porcentaje listo:** 0% `░░░░░░░░░░░░░░░░░░░░`
+- **Con guion completo:** 0%
 
 ---
 *Documento generado automáticamente desde Notion - Base "🎬 Guía de Producción"*

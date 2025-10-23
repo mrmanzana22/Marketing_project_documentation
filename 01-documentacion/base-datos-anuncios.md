@@ -1,6 +1,6 @@
 # 📊 BASE DE DATOS - ANUNCIOS
 
-**Última sincronización:** 23/10/2025, 20:45:44
+**Última sincronización:** 23/10/2025, 21:22:06
 **Total de anuncios en base de datos:** 13
 
 ---
@@ -275,7 +275,7 @@ Muchos técnicos solo cambia..."
 - **Performance:** 👍 buena
 - **Notas Performance:** lleva unas semanas y ha funcionado muy bien para ser evaluacion, ademas la mitad de la imagen se hizo con ia asi que hacer estos experimentos y pruebas ayudan mucho.
 - **Categoría:** F - Problema > Solución
-- **Campaña:** campaña evaluacion servicio tecnico
+- **Campaña:** campaña de presentacion VENTAS
 - **Fecha:** 20/10/2025
 
 
@@ -321,11 +321,11 @@ Muchos técnicos solo cambia..."
 - **iPhone 13 Pro:** 1
 
 ### 📢 Por Campaña:
+- **campaña de presentacion VENTAS:** 4
 - **campaña evaluacion VENTAS:** 4
-- **campaña de presentacion VENTAS:** 3
-- **campaña evaluacion servicio tecnico:** 2
 - **campaña de PROMOCION OCTUBRE 2025:** 2
 - **campaña de presentacion SERVICIO T Mr Manzana:** 2
+- **campaña evaluacion servicio tecnico:** 1
 
 ### 📊 Análisis de Rendimiento:
 - **Total de anuncios:** 13

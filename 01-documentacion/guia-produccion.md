@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 23/10/2025, 21:31:49
+**Última sincronización:** 23/10/2025, 21:40:23
 **Total de contenidos en guía:** 6
 
 ---
@@ -22,7 +22,7 @@
 #### ⏳ En Preparación (1)
 
 - **iPhone 15 - Pocas Unidades Disponibles**
-  - Formato: 📸 Imagen
+  - Formato: 🎥 Video
 
 
 ---
@@ -66,8 +66,8 @@
 - 🔧 **Servicio Técnico:** 4
 
 ### 📱 Por Formato:
-- 🎥 **Video:** 4
-- 📸 **Imagen:** 2
+- 🎥 **Video:** 5
+- 📸 **Imagen:** 1
 
 ### 📊 Progreso de Preparación:
 - **Total de contenidos:** 6

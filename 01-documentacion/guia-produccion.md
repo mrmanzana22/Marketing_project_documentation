@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 23/10/2025, 21:40:23
+**Última sincronización:** 23/10/2025, 22:01:32
 **Total de contenidos en guía:** 6
 
 ---
@@ -31,26 +31,23 @@
 
 **Total en esta línea:** 4 contenidos
 
+### 👋 Presentación
+
+#### ⏳ En Preparación (1)
+
+- **Pantalla rota - Reparación profesional**
+  - Formato: 🎥 Video
+
+
 ### 🔍 Evaluación
 
-#### ⏳ En Preparación (3)
+#### ⏳ En Preparación (2)
 
 - **Batería que muere rápido**
   - Formato: 🎥 Video
 
 - **Diagnóstico completo GRATIS**
   - Formato: 📸 Imagen
-
-- **Pantalla rota - Reparación profesional**
-  - Formato: 🎥 Video
-
-
-### 💰 Conversión
-
-#### ⏳ En Preparación (1)
-
-- **Cristal Trasero Roto - Reparación con Láser**
-  - Formato: 🎥 Video
 
 
 ---

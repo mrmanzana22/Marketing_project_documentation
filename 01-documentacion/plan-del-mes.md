@@ -1,6 +1,6 @@
 # 📅 PLAN DEL MES - PRODUCCIÓN DE CONTENIDO
 
-**Última sincronización:** 23/10/2025, 19:31:24
+**Última sincronización:** 23/10/2025, 19:35:24
 **Total de contenidos planificados:** 6
 
 ---
@@ -20,7 +20,7 @@
 - **Línea:** 🛒 Ventas
 - **Fase:** Conversión
 - **Formato:** Video
-- **Producto/Servicio:** iPhone 15
+- **Producto/Servicio:** iPhone 14
 - **Estado:** 🟡 Listo para Producir
 
 #### Pantalla rota - Reparación profesional

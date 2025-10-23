@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 23/10/2025, 22:13:23
+**Última sincronización:** 23/10/2025, 22:13:31
 **Total de contenidos en guía:** 6
 
 ---
@@ -17,6 +17,8 @@
 
 **Formato:** 🎥 Video
 
+_⚠️ Sin guion disponible_
+
 ---
 
 ### 💰 Conversión
@@ -26,6 +28,8 @@
 ##### iPhone 15 - Pocas Unidades Disponibles
 
 **Formato:** 🎥 Video
+
+_⚠️ Sin guion disponible_
 
 ---
 
@@ -42,6 +46,8 @@
 
 **Formato:** 🎥 Video
 
+_⚠️ Sin guion disponible_
+
 ---
 
 ### 🔍 Evaluación
@@ -52,11 +58,15 @@
 
 **Formato:** 🎥 Video
 
+_⚠️ Sin guion disponible_
+
 ---
 
 ##### Diagnóstico completo GRATIS
 
 **Formato:** 📸 Imagen
+
+_⚠️ Sin guion disponible_
 
 ---
 
@@ -75,10 +85,15 @@
 - 🎥 **Video:** 5
 - 📸 **Imagen:** 1
 
+### 📝 Contenido de Guiones:
+- ✅ **Con guion completo:** 0
+- ⚠️ **Sin guion:** 6
+
 ### 📊 Progreso de Preparación:
 - **Total de contenidos:** 6
 - **Listos para producir:** 0
 - **Porcentaje listo:** 0% `░░░░░░░░░░░░░░░░░░░░`
+- **Con guion completo:** 0%
 
 ---
 *Documento generado automáticamente desde Notion - Base "🎬 Guía de Producción"*

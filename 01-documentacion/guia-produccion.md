@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 23/10/2025, 22:50:23
+**Última sincronización:** 23/10/2025, 23:20:22
 **Total de contenidos en guía:** 6
 
 ---
@@ -48,6 +48,14 @@
 
 - **Diagnóstico completo GRATIS**
   - Formato: 📸 Imagen
+
+
+### 💰 Conversión
+
+#### ⏳ En Preparación (1)
+
+- **Cristal Trasero Roto - Reparación con Láser**
+  - Formato: 🎥 Video
 
 
 ---

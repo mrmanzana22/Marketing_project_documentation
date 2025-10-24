@@ -9,30 +9,47 @@ Este sistema automatiza la gestión de contenido de marketing para Mr. Manzana, 
 ## 🏗️ Arquitectura del Sistema
 
 ```
-┌─────────────────┐
-│     NOTION      │  ← Base de datos central (3 tablas)
-└────────┬────────┘
-         │
-         │ (Sincronización automática cada minuto)
-         │
-         ▼
-┌─────────────────┐
-│      N8N        │  ← Automatización (3 workflows)
-└────────┬────────┘
-         │
-         │ (Generación de archivos Markdown)
-         │
-         ▼
-┌─────────────────┐
-│     GITHUB      │  ← Repositorio de documentación
-└────────┬────────┘
-         │
-         │ (Notificaciones de cambios)
-         │
-         ▼
-┌─────────────────┐
-│    WHATSAPP     │  ← Alertas automáticas
-└─────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│                      NOTION                             │
+│  ┌─────────────┐ ┌──────────────┐ ┌──────────────┐    │
+│  │ Plan del    │ │ Guía de      │ │ Base Datos   │    │
+│  │ Mes         │ │ Producción   │ │ Anuncios     │    │
+│  └─────────────┘ └──────────────┘ └──────────────┘    │
+└──────────┬──────────────┬───────────────┬──────────────┘
+           │              │               │
+           │ (Sincronización automática cada minuto)
+           │              │               │
+           └──────────────┼───────────────┘
+                          ▼
+           ┌──────────────────────────────┐
+           │   N8N - WORKFLOW UNIFICADO   │
+           │  ┌────────┐  ┌────────┐     │
+           │  │ Flujo  │  │ Flujo  │     │
+           │  │ Plan   │  │ Guía   │ ... │
+           │  └────────┘  └────────┘     │
+           │   (Ejecución en paralelo)   │
+           └──────────────┬───────────────┘
+                          │
+                          │ (Generación de archivos Markdown)
+                          │
+                          ▼
+           ┌──────────────────────────────┐
+           │          GITHUB               │
+           │    ┌─────────────────────┐   │
+           │    │ 01-documentacion/   │   │
+           │    │  - plan-del-mes.md  │   │
+           │    │  - guia-produccion  │   │
+           │    │  - base-datos...    │   │
+           │    └─────────────────────┘   │
+           └──────────────┬───────────────┘
+                          │
+                          │ (Notificaciones de cambios)
+                          │
+                          ▼
+           ┌──────────────────────────────┐
+           │         WHATSAPP             │
+           │    (Alertas automáticas)     │
+           └──────────────────────────────┘
 ```
 
 ---
@@ -113,58 +130,152 @@ Cada página en esta base contiene el **guion completo** con:
 
 ---
 
-## 🔄 Los 3 Workflows de Automatización
+## 🔄 El Workflow Unificado de Sincronización
 
-### Workflow 1: Plan del Mes → GitHub
+### ¿Cómo Funciona el Sistema?
 
-**Frecuencia:** Cada minuto
+El sistema utiliza **un único workflow en n8n** que se ejecuta **cada minuto** y procesa las **3 bases de Notion en paralelo**.
 
-**Proceso:**
-1. 📥 Obtiene todos los contenidos del "Plan del Mes"
-2. 🔄 Transforma los datos a formato Markdown organizado
-3. 🔍 Verifica si el archivo existe en GitHub
-4. ⚖️ Compara el contenido nuevo vs. el existente
-5. ✅ Solo actualiza si hay cambios reales
-6. 📤 Sube/actualiza el archivo en GitHub
-7. 📱 Envía notificación a WhatsApp
+```
+       ⏰ TRIGGER (Cada minuto)
+              │
+    ┌─────────┴─────────┐
+    ▼         ▼         ▼
+  Flujo 1   Flujo 2   Flujo 3
+  (Plan)    (Guía)    (Base)
+    │         │         │
+    └─────────┴─────────┘
+              │
+         ✅ Finaliza
+```
 
-**Salida:** Documento organizado por semanas y prioridades con estadísticas
-
----
-
-### Workflow 2: Guía de Producción → GitHub
-
-**Frecuencia:** Cada minuto
-
-**Proceso:**
-1. 📥 Obtiene todos los guiones de "Guía de Producción"
-2. 📄 **Por cada guion**, obtiene el contenido completo de la página
-3. 📝 Extrae el guion completo (texto, notas, B-roll, etc.)
-4. 🔄 Transforma todo a formato Markdown estructurado
-5. 🔍 Verifica cambios en GitHub
-6. ✅ Solo actualiza si hay cambios reales
-7. 📤 Sube/actualiza el archivo en GitHub
-8. 📱 Envía notificación a WhatsApp
-
-**Salida:** Documento con guiones completos organizados por línea y fase
+**Ventaja:** Solo necesitas **1 workflow activo** en lugar de 3 separados, simplificando el mantenimiento y la gestión.
 
 ---
 
-### Workflow 3: Base de Datos Anuncios → GitHub
-
-**Frecuencia:** Cada minuto
+### 🎯 Flujo 1: Plan del Mes → GitHub
 
 **Proceso:**
-1. 📥 Obtiene todos los anuncios de "Base de Datos - Anuncios"
-2. 🏆 Identifica anuncios ganadores
-3. 📊 Organiza por línea, fase, estado y performance
-4. 🔄 Transforma a formato Markdown con estadísticas
-5. 🔍 Verifica cambios en GitHub
-6. ✅ Solo actualiza si hay cambios reales
-7. 📤 Sube/actualiza el archivo en GitHub
-8. 📱 Envía notificación a WhatsApp
+1. 📥 **Obtiene** todos los contenidos de "Plan del Mes" en Notion
+2. 🔄 **Transforma** los datos a formato Markdown organizado por semana y prioridad
+3. 🔍 **Verifica** si el archivo existe en GitHub
+4. ⚖️ **Compara** el contenido nuevo vs. el existente (ignorando timestamps)
+5. ✅ **Solo actualiza** si detecta cambios reales en el contenido
+6. 📤 **Sube/actualiza** el archivo en GitHub
+7. 📱 **Envía** notificación a WhatsApp confirmando la sincronización
 
-**Salida:** Documento con anuncios categorizados y métricas de rendimiento
+**Salida:** `01-documentacion/plan-del-mes.md`
+- Organizado por semanas (Semana 1, 2, 3, 4)
+- Dentro de cada semana: por prioridad (Alta, Media, Baja)
+- Incluye estadísticas completas y barra de progreso
+
+---
+
+### 🎬 Flujo 2: Guía de Producción → GitHub
+
+**Proceso:**
+1. 📥 **Obtiene** todos los guiones de "Guía de Producción"
+2. 📄 **Extrae** el contenido completo del campo "Guion" de cada página
+3. 📝 **Procesa** el guion completo (texto, notas, B-roll, etc.)
+4. 🔄 **Transforma** todo a formato Markdown estructurado
+5. 🔍 **Verifica** cambios en GitHub
+6. ⚖️ **Compara** contenido (ignorando timestamps)
+7. ✅ **Solo actualiza** si hay cambios reales
+8. 📤 **Sube/actualiza** el archivo en GitHub
+9. 📱 **Envía** notificación a WhatsApp
+
+**Salida:** `01-documentacion/guia-produccion.md`
+- Organizado por línea (Ventas / Servicio Técnico)
+- Dentro de cada línea: por fase (Presentación, Evaluación, Conversión)
+- Separado en: ✅ Listos para Producir y ⏳ En Preparación
+- Incluye el guion completo de cada contenido
+
+---
+
+### 📊 Flujo 3: Base de Datos Anuncios → GitHub
+
+**Proceso:**
+1. 📥 **Obtiene** todos los anuncios de "Base de Datos - Anuncios"
+2. 🏆 **Identifica** anuncios ganadores (checkbox "Ganador")
+3. 📊 **Organiza** por línea, fase, estado y performance
+4. 🔄 **Transforma** a formato Markdown con estadísticas completas
+5. 🔍 **Verifica** cambios en GitHub
+6. ⚖️ **Compara** contenido (ignorando timestamps)
+7. ✅ **Solo actualiza** si hay cambios reales
+8. 📤 **Sube/actualiza** el archivo en GitHub
+9. 📱 **Envía** notificación a WhatsApp
+
+**Salida:** `01-documentacion/base-datos-anuncios.md`
+- Primero muestra los 🏆 ANUNCIOS GANADORES
+- Luego organiza por línea, fase y estado
+- Ordenados por performance (Excelente → Mala)
+- Incluye estadísticas completas, tasa de éxito y análisis de rendimiento
+
+---
+
+## 💡 Ventajas del Workflow Unificado
+
+### ¿Por Qué Un Solo Workflow en Lugar de 3?
+
+#### ✅ **Más Simple de Mantener**
+- Solo 1 workflow que activar/desactivar
+- Solo 1 lugar donde revisar logs
+- Solo 1 configuración de trigger (cada minuto)
+
+#### ✅ **Ejecución Eficiente**
+- Los 3 flujos se ejecutan **en paralelo** (al mismo tiempo)
+- No esperan uno al otro
+- Aprovecha mejor los recursos de n8n
+
+#### ✅ **Lógica Más Clara**
+```
+Antes (3 workflows):
+- Workflow "Plan del Mes" → Cada minuto
+- Workflow "Guía Producción" → Cada minuto
+- Workflow "Base Datos" → Cada minuto
+❌ 3 lugares diferentes, 3 configuraciones
+
+Ahora (1 workflow):
+- Workflow unificado → Cada minuto
+  ↳ Procesa las 3 bases en paralelo
+✅ Un solo lugar, una configuración
+```
+
+#### ✅ **Más Fácil de Entender**
+El flujo es lineal y predecible:
+1. ⏰ **Trigger cada minuto** → Activa todo el workflow
+2. 🔄 **3 lecturas en paralelo** → Lee las 3 bases de Notion simultáneamente
+3. 📝 **3 transformaciones** → Convierte cada base a su formato Markdown
+4. 🔍 **3 comparaciones** → Verifica cambios en GitHub para cada archivo
+5. ✅ **3 actualizaciones** → Solo sube si hay cambios reales
+6. 📱 **3 notificaciones** → WhatsApp confirma cada sincronización exitosa
+
+#### ✅ **Menos Propenso a Errores**
+- Si un flujo falla, los otros 2 continúan funcionando
+- El trigger único garantiza que todos se ejecuten juntos
+- Menos posibilidad de desincronización de horarios
+
+### ¿Cómo Se Ve en n8n?
+
+```
+[Schedule Trigger: Cada minuto]
+         │
+    ┌────┴────┬────────────┬───────────────┐
+    │         │            │               │
+[📅 Plan] [🎬 Guía] [📊 Base]            │
+    │         │            │               │
+[Transform] [Transform] [Transform]       │
+    │         │            │               │
+[GitHub] [GitHub] [GitHub]                │
+    │         │            │               │
+[WhatsApp] [WhatsApp] [WhatsApp]          │
+    │         │            │               │
+    └─────────┴────────────┴───────────────┘
+                   │
+              [Finaliza]
+```
+
+Cada columna funciona de forma **independiente y en paralelo**, pero todas comparten el mismo trigger inicial.
 
 ---
 
@@ -494,21 +605,37 @@ Para cada guion:
 
 ## 🔧 Mantenimiento
 
-### Workflows Activos en n8n:
-- ✅ Plan del Mes (ID: `wlcergPjCtzo3dXS` o similar)
-- ✅ Guía de Producción (ID: `06EYJWcd4gVloV8Q`)
-- ✅ Base de Datos Anuncios (ID: `ddzj4U5KekxSW1Xj`)
+### Workflow Activo en n8n:
+
+**Nombre:** Sistema de Sincronización Notion → GitHub
+
+**Estado:** ✅ Debe estar ACTIVO
+
+**Frecuencia:** Cada minuto (cron: `* * * * *`)
+
+**Contiene:**
+- 3 nodos de Notion (uno por cada base de datos)
+- 3 flujos de procesamiento en paralelo
+- Nodos de GitHub para crear/actualizar archivos
+- Notificaciones WhatsApp por cada sincronización exitosa
 
 ### Estado Ideal:
-- Los 3 workflows deben estar **ACTIVOS**
-- Ejecutándose cada minuto
-- Sin errores en el log
+- El workflow debe estar **ACTIVO** (botón verde en n8n)
+- Ejecutándose cada minuto automáticamente
+- Sin errores en el log de ejecución
+- Los 3 flujos procesándose en paralelo sin bloqueos
 
-### Verificación:
-1. Hacer un cambio en Notion
-2. Esperar máximo 60 segundos
-3. Revisar GitHub → Debe aparecer el cambio
-4. Verificar WhatsApp → Debe llegar notificación
+### Verificación Rápida:
+1. **Hacer un cambio** en cualquiera de las 3 bases de Notion
+2. **Esperar máximo 60 segundos**
+3. **Revisar GitHub** → Debe aparecer el commit con el cambio
+4. **Verificar WhatsApp** → Debe llegar notificación automática
+
+### Monitoreo de Logs:
+En n8n, buscar en el historial de ejecuciones:
+- ✅ **Verde:** Ejecución exitosa (todo sincronizado)
+- 🟡 **Amarillo:** Sin cambios detectados (normal)
+- ❌ **Rojo:** Error en algún flujo (revisar logs)
 
 ---
 
@@ -524,6 +651,21 @@ Si algo no funciona:
 ---
 
 **Sistema creado:** Octubre 2025
-**Última actualización:** Octubre 2025
-**Versión:** 1.0
+**Última actualización:** 24 Octubre 2025
+**Versión:** 2.0 (Workflow Unificado)
 **Creado por:** Claude Code + Sebastián (Mr. Manzana)
+
+---
+
+## 📋 Changelog
+
+### v2.0 - 24 Octubre 2025
+- ✅ **Unificación de workflows:** Los 3 workflows separados ahora son uno solo
+- ✅ **Ejecución en paralelo:** Procesamiento simultáneo de las 3 bases
+- ✅ **Mantenimiento simplificado:** Solo 1 workflow que gestionar
+- ✅ **Mejor documentación:** Explicación clara de la lógica del sistema
+
+### v1.0 - Octubre 2025
+- ✅ Sistema inicial con 3 workflows independientes
+- ✅ Sincronización automática cada minuto
+- ✅ Notificaciones WhatsApp

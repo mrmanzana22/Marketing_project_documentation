@@ -1,7 +1,7 @@
 # 📅 PLAN DEL MES - PRODUCCIÓN DE CONTENIDO
 
-**Última sincronización:** 24/10/2025, 19:30:07
-**Total de contenidos planificados:** 2
+**Última sincronización:** 24/10/2025, 21:15:07
+**Total de contenidos planificados:** 3
 
 ---
 
@@ -15,6 +15,13 @@
 - **Formato:** Video
 - **Producto/Servicio:** Cambio de Batería
 - **Estado:** ⚪ Por Hacer
+
+#### Cambio de Pantalla Profesional
+- **Línea:** 🔧 Servicio Técnico
+- **Fase:** Evaluación
+- **Formato:** Video
+- **Producto/Servicio:** Reparación Pantalla
+- **Estado:** 🔵 En Preparación
 
 
 ### 🟡 Prioridad Media
@@ -33,26 +40,26 @@
 
 ### 📈 Por Estado:
 - ⚪ **Por Hacer:** 2
-- 🔵 **En Preparación:** 0
+- 🔵 **En Preparación:** 1
 - 🟡 **Listo para Producir:** 0
 - 🟢 **Producido:** 0
 - ✅ **Publicado:** 0
 
 ### 🎯 Por Línea:
 - 🛒 **Ventas:** 0
-- 🔧 **Servicio Técnico:** 2
+- 🔧 **Servicio Técnico:** 3
 
 ### ⚡ Por Prioridad:
-- 🔴 **Alta:** 1
+- 🔴 **Alta:** 2
 - 🟡 **Media:** 1
 - 🟢 **Baja:** 0
 
 ### 📱 Por Formato:
-- **Video:** 1
+- **Video:** 2
 - **Imagen:** 1
 
 ### 📊 Progreso General:
-- **Total de contenidos:** 2
+- **Total de contenidos:** 3
 - **Completados (Producido + Publicado):** 0
 - **Progreso:** 0% `░░░░░░░░░░░░░░░░░░░░`
 

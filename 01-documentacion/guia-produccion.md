@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 24/10/2025, 19:40:07
+**Última sincronización:** 24/10/2025, 19:45:09
 **Total de contenidos en guía:** 2
 
 ---
@@ -19,7 +19,7 @@
 
 **📋 GUION COMPLETO:**
 
-1️⃣ QUÉ DIRÁ EL ANUNCIO (El texto)
+1️⃣ QUE DIRA EL ANUNCIO (Guion)
 
 🔋 ¿Tu iPhone muere antes del mediodía?
 Esa batería ya está en 75% o menos...
@@ -82,7 +82,7 @@ TODO ESTO ES VARIABLE Y OPCIONAL
 
 **📋 GUION COMPLETO:**
 
-EL COPY 🫡
+1️⃣ COPY (El texto)
 
 🔍 ¿Tu iPhone tiene problemas pero no sabes qué es?
 

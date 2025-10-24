@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 24/10/2025, 19:30:07
+**Última sincronización:** 24/10/2025, 19:35:07
 **Total de contenidos en guía:** 2
 
 ---
@@ -42,10 +42,10 @@ Nosotros lo hacemos bien desde el principio.
 
 • iPhone con batería baja (al 15-20%)
 • Destornilladores y herramientas visibles
-• Batería nueva en su empaque
-• Yo o mi técnico para aparecer
+• Batería VISIBLE Y NUEVA
+• técnico para aparecer
 • Mesa de trabajo limpia y organizada
-• Buena luz (natural o ring light)
+• Buena luz
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -62,15 +62,16 @@ ESCENA 8 (3 seg): Logo Mister Manzana + ubicación en pantalla
 
 TOTAL: 20 segundos de video
 
+TODO ESTO ES VARIABLE Y OPCIONAL
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 4️⃣ NOTAS IMPORTANTES
 
 • Grabar en VERTICAL (celular parado como para stories)
 • Acelerar las partes del cambio de batería para que sea dinámico
-• NO hablar en el video, solo música de fondo
+• HABLAR EN EL VIDEO con música de fondo
 • Música: Energética pero no muy fuerte
-• Al editar, poner texto solo al inicio y al final
 • Similar al video ganador que ya funcionó
 
 ---

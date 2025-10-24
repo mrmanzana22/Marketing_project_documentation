@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 24/10/2025, 19:35:07
+**Última sincronización:** 24/10/2025, 19:40:07
 **Total de contenidos en guía:** 2
 
 ---
@@ -82,7 +82,7 @@ TODO ESTO ES VARIABLE Y OPCIONAL
 
 **📋 GUION COMPLETO:**
 
-1️⃣ QUÉ DIRÁ EL ANUNCIO
+EL COPY 🫡
 
 🔍 ¿Tu iPhone tiene problemas pero no sabes qué es?
 
@@ -140,7 +140,7 @@ COLORES:
 • Imagen VERTICAL (para stories) y CUADRADA (para feed)
 • Texto legible, no muy pequeño
 • Destacar "GRATIS" y "30 minutos"
-• Puedes usar Canva para diseñarla fácil
+• Puedes usar Canva para diseñarla fáci
 
 ---
 

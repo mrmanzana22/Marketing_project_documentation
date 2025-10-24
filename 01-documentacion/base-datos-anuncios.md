@@ -1,15 +1,43 @@
 # 📊 BASE DE DATOS - ANUNCIOS
 
-**Última sincronización:** 24/10/2025, 18:00:08
-**Total de anuncios en base de datos:** 11
+**Última sincronización:** 24/10/2025, 18:05:07
+**Total de anuncios en base de datos:** 12
 
 ---
 
 ## 🛒 VENTAS
 
-**Total en esta línea:** 8 anuncios
+**Total en esta línea:** 9 anuncios
 
 ### 🏆 ANUNCIOS GANADORES
+
+#### Halloween - iPhone 12 con 35% OFF
+- **Estado:** ✅ Publicado
+- **Fase:** Conversión
+- **Formato:** 🎠 Carrusel
+- **Producto/Servicio:** iPhone 12
+- **Performance:** 🌟 Excelente
+- **Notas:** promocion de halloween carrusel, imagenes muy bonitas para la vista, muy atractivo para el cliente, funciono mucho para todas las fases.
+- **Categoría:** E - Urgencia/Escasez
+- **Campaña:** campaña de PROMOCION OCTUBRE 2025
+- **Fecha Creación:** 20/10/2025
+- **Copy:** "🎃 ¡OFERTA ESPECIAL HALLOWEEN! 
+iPhone 12 / Pro / Pro Max con 35% DE DESCUENTO
+Precios que DAN MIEDO..."
+
+#### Halloween - iPhone 13 Pro Max 35% OFF
+- **Estado:** ✅ Publicado
+- **Fase:** Conversión
+- **Formato:** 📸 Imagen
+- **Producto/Servicio:** iPhone 13 Pro Max
+- **Performance:** 🌟 Excelente
+- **Notas:** tambie muy buena y la hice con ia y han escrito muchisimo entonces me di cuenta de que la ia funciona si la sabemos usar en estos casos
+- **Categoría:** E - Urgencia/Escasez
+- **Campaña:** campaña de PROMOCION OCTUBRE 2025
+- **Fecha Creación:** 20/10/2025
+- **Copy:** "🎃 ¿LISTO PARA UN SUSTO DE ALEGRÍA?
+iPhone 13 Pro Max con 35% DE DESCUENTO
+¡Precios tan bajos que pa..."
 
 #### ¿Buscas un iPhone confiable?
 - **Estado:** ✅ Publicado
@@ -66,20 +94,6 @@ EL MEJOR CALIDAD-PRECIO..."
 - **Copy:** "📱 iPhone PRO al MEJOR precio en Mr Manzana
 13 Pro, 14 Pro y 14 Pro Max disponibles
 Calidad PRO a tu..."
-
-#### Halloween - iPhone 13 Pro Max 35% OFF
-- **Estado:** ✅ Publicado
-- **Fase:** Conversión
-- **Formato:** 📸 Imagen
-- **Producto/Servicio:** iPhone 13 Pro Max
-- **Performance:** 🌟 Excelente
-- **Notas:** tambie muy buena y la hice con ia y han escrito muchisimo entonces me di cuenta de que la ia funciona si la sabemos usar en estos casos
-- **Categoría:** E - Urgencia/Escasez
-- **Campaña:** campaña de PROMOCION OCTUBRE 2025
-- **Fecha Creación:** 20/10/2025
-- **Copy:** "🎃 ¿LISTO PARA UN SUSTO DE ALEGRÍA?
-iPhone 13 Pro Max con 35% DE DESCUENTO
-¡Precios tan bajos que pa..."
 
 ---
 
@@ -156,9 +170,18 @@ iPhone 13 Pro Max con 35% DE DESCUENTO
 - **Fecha:** 20/10/2025
 
 
-### 💰 Conversión (1 anuncios)
+### 💰 Conversión (2 anuncios)
 
-#### ✅ Publicado (1)
+#### ✅ Publicado (2)
+
+##### Halloween - iPhone 12 con 35% OFF 🏆
+- **Formato:** 🎠 Carrusel
+- **Producto:** iPhone 12
+- **Performance:** 🌟 Excelente
+- **Notas Performance:** promocion de halloween carrusel, imagenes muy bonitas para la vista, muy atractivo para el cliente, funciono mucho para todas las fases.
+- **Categoría:** E - Urgencia/Escasez
+- **Campaña:** campaña de PROMOCION OCTUBRE 2025
+- **Fecha:** 20/10/2025
 
 ##### Halloween - iPhone 13 Pro Max 35% OFF 🏆
 - **Formato:** 📸 Imagen
@@ -250,17 +273,17 @@ Muchos técnicos solo cambia..."
 ## 📊 ESTADÍSTICAS DE LA BASE DE DATOS
 
 ### 📈 Por Estado:
-- ✅ **Publicados:** 11
+- ✅ **Publicados:** 12
 - 📝 **Borradores:** 0
 - 🚫 **Desactivados:** 0
-- 🏆 **Ganadores:** 7
+- 🏆 **Ganadores:** 8
 
 ### 🎯 Por Línea:
-- 🛒 **Ventas:** 8
+- 🛒 **Ventas:** 9
 - 🔧 **Servicio Técnico:** 3
 
 ### 📊 Por Performance:
-- 🌟 **Excelente:** 7
+- 🌟 **Excelente:** 8
 - 👍 **buena:** 2
 - ✔️ **funciona:** 1
 - 👎 **Mala:** 1
@@ -268,35 +291,35 @@ Muchos técnicos solo cambia..."
 ### 📱 Por Formato:
 - 📸 **Imagen:** 6
 - 🎥 **Video:** 3
-- 🎠 **Carrusel:** 1
+- 🎠 **Carrusel:** 2
 - 🖼️ **Slideshow:** 1
 
 ### 🏷️ Por Categoría (Top 5):
+- **E - Urgencia/Escasez:** 3
 - **F - Problema > Solución:** 3
 - **A - Garantía como arma:** 2
-- **E - Urgencia/Escasez:** 2
 - **B - Servicio integrado:** 1
 - **G - Comparación inteligente:** 1
 
 ### 🎯 Por Producto/Servicio (Top 5):
 - **iPhone (General):** 3
 - **Diagnóstico Completo:** 2
+- **iPhone 12:** 1
 - **iPhone 13 Pro:** 1
 - **iPhone 13 Series:** 1
-- **Cambio de Batería:** 1
 
 ### 📢 Por Campaña:
 - **campaña evaluacion VENTAS:** 4
 - **campaña de presentacion VENTAS:** 3
+- **campaña de PROMOCION OCTUBRE 2025:** 2
 - **campaña de presentacion SERVICIO T Mr Manzana:** 2
 - **campaña evaluacion servicio tecnico:** 1
-- **campaña de PROMOCION OCTUBRE 2025:** 1
 
 ### 📊 Análisis de Rendimiento:
-- **Total de anuncios:** 11
-- **Anuncios evaluados:** 11
-- **Anuncios exitosos (Excelente + Buena):** 9
-- **Tasa de éxito:** 82% `████████████████░░░░`
+- **Total de anuncios:** 12
+- **Anuncios evaluados:** 12
+- **Anuncios exitosos (Excelente + Buena):** 10
+- **Tasa de éxito:** 83% `█████████████████░░░`
 
 ---
 *Documento generado automáticamente desde Notion - Base "📊 Base de Datos - Anuncios"*

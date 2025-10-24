@@ -1,7 +1,7 @@
 # 📅 PLAN DEL MES - PRODUCCIÓN DE CONTENIDO
 
-**Última sincronización:** 23/10/2025, 20:10:52
-**Total de contenidos planificados:** 6
+**Última sincronización:** 24/10/2025, 19:30:07
+**Total de contenidos planificados:** 2
 
 ---
 
@@ -14,34 +14,6 @@
 - **Fase:** Evaluación
 - **Formato:** Video
 - **Producto/Servicio:** Cambio de Batería
-- **Estado:** ⚪ Por Hacer
-
-#### iPhone 15 - Pocas Unidades Disponibles
-- **Línea:** 🛒 Ventas
-- **Fase:** Conversión
-- **Formato:** Video
-- **Producto/Servicio:** iPhone 14
-- **Estado:** ⚪ Por Hacer
-
-#### Pantalla rota - Reparación profesional
-- **Línea:** 🔧 Servicio Técnico
-- **Fase:** Evaluación
-- **Formato:** Video
-- **Producto/Servicio:** Reparación Pantalla
-- **Estado:** ⚪ Por Hacer
-
-#### iPhone 16 - Últimas Unidades (Conversión)
-- **Línea:** 🛒 Ventas
-- **Fase:** Conversión
-- **Formato:** Video
-- **Producto/Servicio:** iPhone 16
-- **Estado:** ⚪ Por Hacer
-
-#### Cristal Trasero Roto - Reparación con Láser
-- **Línea:** 🔧 Servicio Técnico
-- **Fase:** Conversión
-- **Formato:** Video
-- **Producto/Servicio:** Cristal Trasero
 - **Estado:** ⚪ Por Hacer
 
 
@@ -60,27 +32,27 @@
 ## 📊 ESTADÍSTICAS DEL PLAN
 
 ### 📈 Por Estado:
-- ⚪ **Por Hacer:** 6
+- ⚪ **Por Hacer:** 2
 - 🔵 **En Preparación:** 0
 - 🟡 **Listo para Producir:** 0
 - 🟢 **Producido:** 0
 - ✅ **Publicado:** 0
 
 ### 🎯 Por Línea:
-- 🛒 **Ventas:** 2
-- 🔧 **Servicio Técnico:** 4
+- 🛒 **Ventas:** 0
+- 🔧 **Servicio Técnico:** 2
 
 ### ⚡ Por Prioridad:
-- 🔴 **Alta:** 5
+- 🔴 **Alta:** 1
 - 🟡 **Media:** 1
 - 🟢 **Baja:** 0
 
 ### 📱 Por Formato:
-- **Video:** 5
+- **Video:** 1
 - **Imagen:** 1
 
 ### 📊 Progreso General:
-- **Total de contenidos:** 6
+- **Total de contenidos:** 2
 - **Completados (Producido + Publicado):** 0
 - **Progreso:** 0% `░░░░░░░░░░░░░░░░░░░░`
 

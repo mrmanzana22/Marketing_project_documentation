@@ -1,13 +1,13 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 24/10/2025, 19:25:07
-**Total de contenidos en guía:** 3
+**Última sincronización:** 24/10/2025, 19:30:07
+**Total de contenidos en guía:** 2
 
 ---
 
 ## 🔧 SERVICIO TÉCNICO
 
-**Total en esta línea:** 3 contenidos
+**Total en esta línea:** 2 contenidos
 
 ### 🔍 Evaluación
 
@@ -85,7 +85,7 @@ TOTAL: 20 segundos de video
 
 🔍 ¿Tu iPhone tiene problemas pero no sabes qué es?
 
-DIAGNÓSTICO COMPLETO GRATIS en 30 minutos
+ AQUI EN MR MANZANA  TE HACEMOS UN DIAGNÓSTICO COMPLETO GRATIS en 30 minutos
 
 Revisamos TODO:
 ✅ Batería (capacidad y salud)
@@ -99,10 +99,10 @@ Revisamos TODO:
 Te explicamos EXACTAMENTE qué tiene tu iPhone y cuánto cuesta arreglarlo.
 Sin compromisos, sin sorpresas.
 
-🎯 8 años encontrando problemas que otros no ven
+🎯 8 años encontrando problemas que en otros lados no ven
 
-📍 Cra. 53 #79-279, Local 106 – CC Royal Washington
-📱 Agenda tu diagnóstico GRATIS ahora ⚡
+📍 que estas esperando ?
+📱  ESCRIBE YA y Agenda tu diagnóstico GRATIS ahora ⚡
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -143,96 +143,27 @@ COLORES:
 
 ---
 
-### 💰 Conversión
-
-#### ⏳ En Preparación (1)
-
-##### Cristal Trasero Roto - Reparación con Láser
-
-**Formato:** 🎥 Video
-
-**📋 GUION COMPLETO:**
-
-🎬 GUION: Cristal Trasero Roto - Reparación Profesional
-╚══════════════════════════════════════════════════════════
-📌 INFO:
-Línea: Servicio Técnico
-Fase: Conversión
-Duración: 25-30 segundos
-Formato: PERSONA HABLANDO + B-ROLL
-╔══════════════════════════════════════════════════════════
-📝 TEXTO A DECIR EN CÁMARA:
-¿CRISTAL TRASERO ROTO?
-Muchos te dicen que es IMPOSIBLE de reparar
-o que hay que cambiar TODO el chasis.
-Eso NO ES CIERTO.
-Aquí en Mister Manzana reparamos el cristal trasero
-con LÁSER PROFESIONAL y herramientas especializadas
-que POCOS tienen en Barranquilla.
-Dejamos tu iPhone como NUEVO,
-con UN MES de garantía REAL en la reparación,
-sin necesidad de cambiar piezas innecesarias.
-No gastes de más por desconocimiento.
-ESCRÍBENOS AHORA - Diagnóstico GRATIS en 30 minutos.
-Cra. 53 #79-279, Local 106 - CC Royal Washington, Barranquilla.
-APÚRATE - Cupos limitados esta semana.
-╚══════════════════════════════════════════════════════════
-🎥 B-ROLL (FONDO):
-Mientras hablas, intercalar clips de:
-• iPhone con cristal trasero completamente roto (dramático)
-• Herramienta láser profesional en acción
-• Manos del técnico removiendo cristal roto con precisión
-• Proceso de limpieza y preparación
-• Instalación de cristal nuevo
-• iPhone terminado - cristal trasero perfecto (antes/después)
-• Logo + ubicación al final
-╚══════════════════════════════════════════════════════════
-⚡ NOTAS:
-Tono: Urgente y profesional
-Énfasis en: "IMPOSIBLE", "NO ES CIERTO", "LÁSER PROFESIONAL", "POCOS tienen", "NUEVO", "UN MES", "GRATIS", "AHORA", "APÚRATE"
-Contacto visual: Directo a cámara
-Velocidad: Rápida con energía y confianza
-Grabar: VERTICAL SIEMPRE (9:16)
-Mensaje clave: Desmitificar que es "imposible" de reparar y posicionarnos como los únicos con equipo profesional
-╚══════════════════════════════════════════════════════════
-🎯 QUÉ NECESITO:
-• iPhone con cristal trasero roto (para mostrar problema)
-• Herramienta láser profesional visible
-• Espacio de trabajo limpio y profesional
-• iPhone con cristal trasero nuevo instalado (para el after)
-• Logo de Mister Manzana
-• Buena iluminación
-💡 NOTAS IMPORTANTES:
-• Enfatizar que POCOS tienen láser profesional - diferenciador clave
-• Desmitificar el mito de que es "imposible" reparar
-• Mostrar el antes/después es crucial para conversión
-• Fase Conversión = Urgencia doble (AHORA + Cupos limitados)
-• Garantía de 1 MES para tranquilidad
-• Diagnóstico GRATIS como oferta gancho sin fricción
-
----
-
 
 ## 📊 ESTADÍSTICAS DE LA GUÍA
 
 ### 📈 Por Estado de Preparación:
 - ✅ **Listos para Producir:** 0
-- ⏳ **En Preparación:** 3
+- ⏳ **En Preparación:** 2
 
 ### 🎯 Por Línea:
 - 🛒 **Ventas:** 0
-- 🔧 **Servicio Técnico:** 3
+- 🔧 **Servicio Técnico:** 2
 
 ### 📱 Por Formato:
-- 🎥 **Video:** 2
+- 🎥 **Video:** 1
 - 📸 **Imagen:** 1
 
 ### 📝 Contenido de Guiones:
-- ✅ **Con guion completo:** 3
+- ✅ **Con guion completo:** 2
 - ⚠️ **Sin guion:** 0
 
 ### 📊 Progreso de Preparación:
-- **Total de contenidos:** 3
+- **Total de contenidos:** 2
 - **Listos para producir:** 0
 - **Porcentaje listo:** 0% `░░░░░░░░░░░░░░░░░░░░`
 - **Con guion completo:** 100%

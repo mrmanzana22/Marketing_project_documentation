@@ -1,7 +1,7 @@
 # 📊 BASE DE DATOS - ANUNCIOS
 
-**Última sincronización:** 23/10/2025, 21:34:53
-**Total de anuncios en base de datos:** 13
+**Última sincronización:** 24/10/2025, 17:20:08
+**Total de anuncios en base de datos:** 12
 
 ---
 
@@ -197,7 +197,7 @@ Calidad PRO a tu..."
 
 ## 🔧 SERVICIO TÉCNICO
 
-**Total en esta línea:** 4 anuncios
+**Total en esta línea:** 3 anuncios
 
 ### 🏆 ANUNCIOS GANADORES
 
@@ -231,7 +231,7 @@ Muchos técnicos solo cambia..."
 
 ---
 
-### 👋 Presentación (3 anuncios)
+### 👋 Presentación (2 anuncios)
 
 #### ✅ Publicado (2)
 
@@ -252,17 +252,6 @@ Muchos técnicos solo cambia..."
 - **Categoría:** F - Problema > Solución
 - **Campaña:** campaña de presentacion SERVICIO T Mr Manzana
 - **Fecha:** 20/10/2025
-
-#### 📝 Borrador (1)
-
-##### xw
-- **Formato:** 🎥 Video
-- **Producto:** Reparación de Pantalla
-- **Performance:** ❓ No evaluado
-- **Notas Performance:** llevo dias probandola, la verdad es que muy pelle
-- **Categoría:** F - Problema > Solución
-- **Campaña:** campaña evaluacion servicio tecnico
-- **Fecha:** 21/10/2025
 
 
 ### 🔍 Evaluación (1 anuncios)
@@ -285,30 +274,29 @@ Muchos técnicos solo cambia..."
 
 ### 📈 Por Estado:
 - ✅ **Publicados:** 12
-- 📝 **Borradores:** 1
+- 📝 **Borradores:** 0
 - 🚫 **Desactivados:** 0
 - 🏆 **Ganadores:** 8
 
 ### 🎯 Por Línea:
 - 🛒 **Ventas:** 9
-- 🔧 **Servicio Técnico:** 4
+- 🔧 **Servicio Técnico:** 3
 
 ### 📊 Por Performance:
 - 🌟 **Excelente:** 8
 - 👍 **buena:** 2
 - ✔️ **funciona:** 1
 - 👎 **Mala:** 1
-- ❓ **No evaluado:** 1
 
 ### 📱 Por Formato:
 - 📸 **Imagen:** 6
-- 🎥 **Video:** 4
+- 🎥 **Video:** 3
 - 🎠 **Carrusel:** 2
 - 🖼️ **Slideshow:** 1
 
 ### 🏷️ Por Categoría (Top 5):
-- **F - Problema > Solución:** 4
 - **E - Urgencia/Escasez:** 3
+- **F - Problema > Solución:** 3
 - **A - Garantía como arma:** 2
 - **B - Servicio integrado:** 1
 - **G - Comparación inteligente:** 1
@@ -316,19 +304,19 @@ Muchos técnicos solo cambia..."
 ### 🎯 Por Producto/Servicio (Top 5):
 - **iPhone (General):** 3
 - **Diagnóstico Completo:** 2
-- **Reparación de Pantalla:** 1
 - **iPhone 12:** 1
 - **iPhone 13 Pro:** 1
+- **iPhone 13 Series:** 1
 
 ### 📢 Por Campaña:
 - **campaña evaluacion VENTAS:** 4
 - **campaña de presentacion VENTAS:** 3
-- **campaña evaluacion servicio tecnico:** 2
 - **campaña de PROMOCION OCTUBRE 2025:** 2
 - **campaña de presentacion SERVICIO T Mr Manzana:** 2
+- **campaña evaluacion servicio tecnico:** 1
 
 ### 📊 Análisis de Rendimiento:
-- **Total de anuncios:** 13
+- **Total de anuncios:** 12
 - **Anuncios evaluados:** 12
 - **Anuncios exitosos (Excelente + Buena):** 10
 - **Tasa de éxito:** 83% `█████████████████░░░`

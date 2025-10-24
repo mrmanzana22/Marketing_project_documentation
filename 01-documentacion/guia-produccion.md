@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 24/10/2025, 21:20:07
+**Última sincronización:** 24/10/2025, 21:25:07
 **Total de contenidos en guía:** 3
 
 ---
@@ -151,14 +151,17 @@ COLORES:
 **📋 GUION COMPLETO:**
 
 🎬 CAMBIO DE PANTALLA PROFESIONAL
-Línea: Servicio Técnico
-Fase: Evaluación
-Formato: Video
-Duración: 25-30 segundos
+
+Línea: Servicio Técnico | Fase: Evaluación | Formato: Video | Duración: 25-30 seg
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 1️⃣ QUÉ DIRÁ EL ANUNCIO (Guion)
+
 🔧 ¿PANTALLA ROTA?
+
 Muchos solo te cambian el vidrio y listo, pero eso NO es una reparación profesional.
+
 En Mister Manzana hacemos un diagnóstico COMPLETO antes de tocar tu iPhone:
 
 ✅ Diagnóstico GRATIS en 30 minutos
@@ -171,47 +174,48 @@ En Mister Manzana hacemos un diagnóstico COMPLETO antes de tocar tu iPhone:
 📍 Cra. 53 #79-279, Local 106 – CC Royal Washington
 📱 Escríbenos AHORA y repara tu pantalla como debe ser ⚡
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 2️⃣ QUÉ NECESITO PARA GRABARLO
-• iPhone con pantalla rota (para mostrar el "antes")
-• Destornilladores y herramientas profesionales visibles
+
+• iPhone con pantalla rota ("antes")
+• Destornilladores y herramientas profesionales
 • Pantalla NUEVA (empacada o visible)
-• Microscopio o lupa profesional (para destacar profesionalismo)
-• Técnico para aparecer hablando a cámara
-• Mesa de trabajo limpia y organizada
+• Microscopio o lupa profesional
+• Técnico para hablar a cámara
+• Mesa limpia y organizada
 • Buena luz
-• iPhone ya reparado (para el "después")
+• iPhone reparado ("después")
 
-3️⃣ QUÉ VOY A GRABAR (Orden de las escenas)
-ESCENA 1 (3 seg): Técnico hablando a cámara mostrando iPhone con pantalla rota
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-ESCENA 2 (2 seg): Close-up de pantalla rota (mostrar el daño)
+3️⃣ QUÉ VOY A GRABAR
 
-ESCENA 3 (3 seg): Técnico colocando iPhone en mesa + herramientas profesionales visibles
+ESCENA 1 (3s): Técnico hablando + iPhone pantalla rota
+ESCENA 2 (2s): Close-up pantalla rota
+ESCENA 3 (3s): iPhone en mesa + herramientas
+ESCENA 4 (3s): Apertura con destornillador
+ESCENA 5 (3s): Instalar pantalla nueva (acelerar)
+ESCENA 6 (2s): Cerrar iPhone
+ESCENA 7 (3s): iPhone PERFECTO + técnico satisfecho
+ESCENA 8 (3s): Logo + ubicación
 
-ESCENA 4 (3 seg): Proceso de apertura con destornillador (close-up)
-
-ESCENA 5 (3 seg): Mostrar pantalla nueva + instalación (acelerar esta parte)
-
-ESCENA 6 (2 seg): Cerrar el iPhone con destornillador
-
-ESCENA 7 (3 seg): iPhone con pantalla PERFECTA funcionando + técnico satisfecho
-
-ESCENA 8 (3 seg): Logo Mister Manzana + ubicación en pantalla
-TOTAL: 25-30 segundos de video
-<aside>
+TOTAL: 25-30 segundos
 
 💡 TODO ESTO ES VARIABLE Y OPCIONAL
 
-</aside>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 4️⃣ NOTAS IMPORTANTES
-• Grabar en VERTICAL (celular parado como para stories)
-• Acelerar las partes técnicas del cambio de pantalla para que sea dinámico
-• TÉCNICO HABLA EN EL VIDEO diciendo el guion mientras se intercala el B-roll
-• Música: Profesional y moderada (que no tape la voz)
-• Mostrar ANTES y DESPUÉS claramente para impacto visual
-• Énfasis en herramientas profesionales (diferenciador clave)
-• Destacar el diagnóstico completo vs "solo cambiar el vidrio"
-• Similar en energía al video de batería que ya funcionó
+
+• Grabar en VERTICAL
+• Acelerar partes técnicas
+• TÉCNICO HABLA EN EL VIDEO (guion + B-roll intercalado)
+• Música: Profesional y moderada (no tape voz)
+• Mostrar ANTES y DESPUÉS claramente
+• Énfasis en herramientas profesionales (diferenciador)
+• Destacar diagnóstico completo vs "solo cambiar vidrio"
+• Energía similar al video de batería ganador
 
 ---
 

@@ -1,7 +1,7 @@
 # 📅 PLAN DEL MES - PRODUCCIÓN DE CONTENIDO
 
-**Última sincronización:** 24/10/2025, 22:10:07
-**Total de contenidos planificados:** 4
+**Última sincronización:** 24/10/2025, 22:20:06
+**Total de contenidos planificados:** 5
 
 ---
 
@@ -15,6 +15,13 @@
 - **Formato:** Video
 - **Producto/Servicio:** Cambio de Batería
 - **Estado:** ⚪ Por Hacer
+
+#### iPhone 15 - Últimas Unidades (Conversión Renovada)
+- **Línea:** 🛒 Ventas
+- **Fase:** Conversión
+- **Formato:** Video
+- **Producto/Servicio:** iPhone (General)
+- **Estado:** 🔵 En Preparación
 
 #### Cambio de Pantalla Profesional
 - **Línea:** 🔧 Servicio Técnico
@@ -47,26 +54,26 @@
 
 ### 📈 Por Estado:
 - ⚪ **Por Hacer:** 2
-- 🔵 **En Preparación:** 2
+- 🔵 **En Preparación:** 3
 - 🟡 **Listo para Producir:** 0
 - 🟢 **Producido:** 0
 - ✅ **Publicado:** 0
 
 ### 🎯 Por Línea:
-- 🛒 **Ventas:** 0
+- 🛒 **Ventas:** 1
 - 🔧 **Servicio Técnico:** 4
 
 ### ⚡ Por Prioridad:
-- 🔴 **Alta:** 3
+- 🔴 **Alta:** 4
 - 🟡 **Media:** 1
 - 🟢 **Baja:** 0
 
 ### 📱 Por Formato:
-- **Video:** 3
+- **Video:** 4
 - **Imagen:** 1
 
 ### 📊 Progreso General:
-- **Total de contenidos:** 4
+- **Total de contenidos:** 5
 - **Completados (Producido + Publicado):** 0
 - **Progreso:** 0% `░░░░░░░░░░░░░░░░░░░░`
 

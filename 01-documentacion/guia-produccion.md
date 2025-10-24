@@ -1,13 +1,13 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 24/10/2025, 21:25:07
-**Total de contenidos en guía:** 3
+**Última sincronización:** 24/10/2025, 22:05:08
+**Total de contenidos en guía:** 4
 
 ---
 
 ## 🔧 SERVICIO TÉCNICO
 
-**Total en esta línea:** 3 contenidos
+**Total en esta línea:** 4 contenidos
 
 ### 🔍 Evaluación
 
@@ -219,27 +219,114 @@ TOTAL: 25-30 segundos
 
 ---
 
+### 💰 Conversión
+
+#### ⏳ En Preparación (1)
+
+##### iPhone Mojado - Salvamento de Emergencia
+
+**Formato:** 🎥 Video
+
+**📋 GUION COMPLETO:**
+
+🎬 iPHONE MOJADO - SALVAMENTO DE EMERGENCIA
+
+Línea: Servicio Técnico | Fase: Conversión | Formato: Video | Duración: 20-25 seg
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1️⃣ QUÉ DIRÁ EL ANUNCIO (Guion)
+
+💧 ¿SE TE CAYÓ EL iPHONE AL AGUA?
+
+Cada minuto que pasa el daño se hace MÁS GRANDE. La corrosión NO se detiene.
+
+TRÁELO HOY MISMO y lo salvamos:
+
+✅ Limpieza profunda con ultrasonido profesional
+✅ Revisión COMPLETA de todos los circuitos
+✅ Secado especializado con equipos de laboratorio
+✅ 1 MES de garantía si lo reparamos
+
+⚠️ CRÍTICO: Después de 24 horas el daño puede ser IRREVERSIBLE
+
+No lo enciendas, no lo cargues, no esperes "a ver si se seca solo" - ESO LO EMPEORA.
+
+🚨 Actúa AHORA o perdés tu iPhone para siempre
+
+📍 Cra. 53 #79-279, Local 106 – CC Royal Washington
+📱 Escríbenos URGENTE y salvá tu iPhone mientras hay tiempo ⚡
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2️⃣ QUÉ NECESITO PARA GRABARLO
+
+• iPhone mojado o simulación con agua
+• Equipo de ultrasonido (limpieza profesional)
+• Microscopio o lupa profesional
+• Herramientas de apertura
+• Toallas o papel absorbente
+• Reloj o cronómetro visible (enfatizar tiempo)
+• Técnico para hablar con URGENCIA
+• iPhone salvado funcionando (el éxito)
+• Mesa con equipos especializados visibles
+• Buena luz
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3️⃣ QUÉ VOY A GRABAR (Orden de las escenas)
+
+ESCENA 1 (2s): iPhone cayendo al agua (simulación dramática) o iPhone mojado
+ESCENA 2 (3s): Técnico hablando con URGENCIA señalando reloj (tiempo corriendo)
+ESCENA 3 (3s): Abrir iPhone mojado - mostrar daño interno con microscopio
+ESCENA 4 (3s): Limpieza con ultrasonido (burbujas, acción, profesional)
+ESCENA 5 (3s): Secado con herramientas especializadas
+ESCENA 6 (3s): iPhone ENCENDIDO y funcionando (ÉXITO - música cambia)
+ESCENA 7 (3s): Técnico mostrando señal de "URGENTE" - gesto de apuro
+ESCENA 8 (3s): Logo Mister Manzana + ubicación
+
+TOTAL: 20-25 segundos
+
+💡 TODO ESTO ES VARIABLE Y OPCIONAL
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4️⃣ NOTAS IMPORTANTES
+
+• Grabar en VERTICAL
+• TÉCNICO HABLA EN EL VIDEO con URGENCIA REAL (es una emergencia)
+• Música: Tensa al inicio, aliviada al final (cuando se salva)
+• Mostrar el RELOJ o tiempo corriendo para enfatizar urgencia temporal
+• Equipos profesionales BIEN VISIBLES (ultrasonido, microscopio = diferenciador)
+• El tono es SERIO - no es promoción alegre, es salvamento de emergencia
+• Enfatizar el "NO HAGAS ESTO" (no encender, no cargar) - genera miedo correcto
+• Antes/después debe ser MUY dramático (mojado/muerto → funcionando perfecto)
+• La urgencia aquí es REAL no artificial - el daño empeora con el tiempo
+• Similar en drama/urgencia a videos de "problema grave" que funcionan
+
+---
+
 
 ## 📊 ESTADÍSTICAS DE LA GUÍA
 
 ### 📈 Por Estado de Preparación:
 - ✅ **Listos para Producir:** 0
-- ⏳ **En Preparación:** 3
+- ⏳ **En Preparación:** 4
 
 ### 🎯 Por Línea:
 - 🛒 **Ventas:** 0
-- 🔧 **Servicio Técnico:** 3
+- 🔧 **Servicio Técnico:** 4
 
 ### 📱 Por Formato:
-- 🎥 **Video:** 2
+- 🎥 **Video:** 3
 - 📸 **Imagen:** 1
 
 ### 📝 Contenido de Guiones:
-- ✅ **Con guion completo:** 3
+- ✅ **Con guion completo:** 4
 - ⚠️ **Sin guion:** 0
 
 ### 📊 Progreso de Preparación:
-- **Total de contenidos:** 3
+- **Total de contenidos:** 4
 - **Listos para producir:** 0
 - **Porcentaje listo:** 0% `░░░░░░░░░░░░░░░░░░░░`
 - **Con guion completo:** 100%

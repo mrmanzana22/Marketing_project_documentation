@@ -1,245 +1,13 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 24/10/2025, 0:05:07
-**Total de contenidos en guía:** 6
+**Última sincronización:** 24/10/2025, 19:25:07
+**Total de contenidos en guía:** 3
 
 ---
-
-## 🛒 VENTAS
-
-**Total en esta línea:** 2 contenidos
-
-### 🔍 Evaluación
-
-#### ⏳ En Preparación (1)
-
-##### iPhone 16 - Últimas Unidades (Conversión)
-
-**Formato:** 🎥 Video
-
-**📋 GUION COMPLETO:**
-
-📌 INFO DEL VIDEO
-Línea: Ventas
-Fase: Conversión
-Duración: 25-30 segundos
-Formato: PERSONA HABLANDO + B-ROLL
-1️⃣ QUÉ DIRÁ EL ANUNCIO
-📝 TEXTO A DECIR EN CÁMARA:
-¿QUIERES EL iPhone 16?
-ESTE es el momento.
-El modelo MÁS NUEVO de Apple,
-con el chip A18 que lo hace SÚPER rápido,
-cámara de 48 megapíxeles que toma fotos INCREÍBLES,
-y batería que te dura TODO EL DÍA.
-Pero aquí está lo MEJOR:
-En Mister Manzana NO solo te llevas el iPhone 16,
-te llevas el PAQUETE COMPLETO:
-Case, vidrio templado y cargador GRATIS.
-6 MESES de garantía REAL.
-Y ENVÍO GRATIS a donde estés en Colombia.
-El problema? Tenemos POCAS UNIDADES
-y se están ACABANDO rápido.
-Si quieres el iPhone 16 con TODO INCLUIDO,
-ESCRÍBENOS AHORA antes de que se agoten.
-CC Royal Washington, Barranquilla.
-NO lo dejes para después.
-📱 COPY PARA TEXTO DEL ANUNCIO:
-📱 ¿QUIERES EL iPHONE 16? ÚLTIMAS UNIDADES DISPONIBLES
-El modelo MÁS NUEVO de Apple ya está aquí,
-pero NO durará mucho tiempo 🔥
-IPHONE 16 - LO ÚLTIMO EN TECNOLOGÍA:
-✅ Chip A18 - Velocidad extrema
-✅ Cámara de 48MP - Fotos profesionales
-✅ Batería de todo el día
-✅ Dynamic Island
-TODO INCLUIDO SIN COSTO EXTRA:
-✅ Case + vidrio + cargador GRATIS 🎁
-✅ 6 MESES de garantía REAL
-✅ Envío GRATIS a toda Colombia 🚚
-✅ Servicio técnico propio
-⚠️ STOCK LIMITADO - POCAS UNIDADES DISPONIBLES
-Se están acabando RÁPIDO
-📍 Cra. 53 #79-279, Local 106 – Piso M
-CC Royal Washington – Barranquilla
-📱 ESCRÍBENOS AHORA antes de que se agoten ⚡
-No lo dejes para después
-2️⃣ QUÉ NECESITO
-• iPhone 16 físico (para grabar)
-• Accesorios: case, vidrio templado, cargador
-• Persona frente a cámara (empleado o dueño)
-• Iluminación adecuada
-• Fondo limpio (puede ser en el local)
-• Teléfono vertical para grabar (9:16)
-• Logo de Mister Manzana para overlay final
-3️⃣ QUÉ VOY A GRABAR (B-ROLL)
-🎥 B-ROLL (FONDO):
-Mientras hablas, intercalar clips de:
-• ✅ iPhone 16 en diferentes colores (mostrar variedad disponible)
-• ✅ Close-up del chip A18 (puede ser animación o imagen de Apple)
-• ✅ Demostración de cámara de 48MP (tomando fotos, mostrando resultados)
-• ✅ Accesorios incluidos en mesa: case + vidrio + cargador
-• ✅ Empaquetado del iPhone con todos los accesorios (manos organizando)
-• ✅ Texto en pantalla: "POCAS UNIDADES DISPONIBLES" (sobre fondo rojo/urgente)
-• ✅ Logo + ubicación: CC Royal Washington al final (3 segundos)
-📝 TIPS DE GRABACIÓN:
-• Intercalar B-roll cada 5-7 segundos mientras la persona habla
-• Mantener clips de B-roll cortos (2-3 segundos cada uno)
-• La persona debe ser visible 60% del tiempo, B-roll 40%
-• Grabar B-roll extra por si acaso (siempre tener respaldo)
-4️⃣ NOTAS IMPORTANTES
-⚡ DATOS CLAVE DEL VIDEO:
-• Tono: Urgente y energético (fase de conversión)
-• Énfasis en palabras clave: MÁS NUEVO, SÚPER, INCREÍBLES, MEJOR, PAQUETE COMPLETO, GRATIS, 6 MESES, POCAS UNIDADES, ACABANDO, AHORA, NO lo dejes
-• Contacto visual: Directo a cámara TODO el tiempo
-• Velocidad: Rápida con energía constante (mantener ritmo urgente)
-• Grabar: VERTICAL SIEMPRE (9:16) para Instagram y Facebook Stories
-🎯 OBJETIVO DEL ANUNCIO:
-CERRAR LA VENTA del iPhone 16 usando urgencia + escasez + beneficios completos. El espectador debe sentir que si no actúa AHORA, perderá la oportunidad.
-🚨 RECORDATORIOS CRÍTICOS:
-• Mencionar SIEMPRE la garantía de 6 meses (diferenciador clave)
-• Incluir ubicación completa al final del video
-• Al decir "POCAS UNIDADES" hacer gesto de urgencia con las manos (esto refuerza el mensaje)
-• Mantener energía alta durante TODO el video
-• NO usar lenguaje técnico excesivo - hablar como persona normal
-📈 CATEGORÍA Y PERFORMANCE ESPERADA:
-Categoría: E (Urgencia/Escasez) - Historial: 75% win rate
-Formato: Video - Historial: 75% win rate
-Pronóstico: ALTA probabilidad de ser WINNER basado en data histórica
-
----
-
-### 💰 Conversión
-
-#### ⏳ En Preparación (1)
-
-##### iPhone 15 - Pocas Unidades Disponibles
-
-**Formato:** 🎥 Video
-
-**📋 GUION COMPLETO:**
-
-🎬 GUION: iPhone 15 - Pocas Unidades Disponibles
-╔══════════════════════════════════════════════════
-📌 INFO:
-• Línea: Ventas
-• Fase: Conversión
-• Duración: 25-30 segundos
-• Formato: ASESORA HABLANDO + PRODUCTO + CIERRE CON ASESORA
-╔══════════════════════════════════════════════════
-📝 TEXTO A DECIR EN CÁMARA:
-¿Estás buscando el iPhone 15?
-Tenemos POCAS UNIDADES disponibles
-y se están acabando RÁPIDO.
-El iPhone 15 trae cámara de 48 megapixeles
-para fotos INCREÍBLES,
-el nuevo puerto USB-C que ya es universal,
-y el Dynamic Island que hace todo más fácil.
-Pero lo MEJOR es lo que te incluimos en Mister Manzana:
-Case, vidrio templado y cargador GRATIS,
-SEIS MESES de garantía REAL,
-y envío GRATIS a toda Colombia.
-No te quedes sin el tuyo.
-Escríbenos AHORA antes de que se agoten.
-CC Royal Washington, Barranquilla.
-╔══════════════════════════════════════════════════
-🎥 B-ROLL (FONDO):
-INICIO: Asesora con iPhone 15 en mano hablando a cámara
-CORTE A PRODUCTO (mientras sigue hablando):
-• ✅ iPhone 15 en diferentes colores mostrados
-• ✅ Close-up de cámara de 48MP
-• ✅ Puerto USB-C en acción (cargando)
-• ✅ Dynamic Island funcionando (notificaciones/música)
-• ✅ Accesorios incluidos (case + vidrio + cargador) mostrados
-RETOMA ASESORA: Para el CTA final
-• ✅ Asesora señalando a cámara "Escríbenos AHORA"
-• ✅ Logo + ubicación en pantalla
-╔══════════════════════════════════════════════════
-⚡ NOTAS:
-• Tono: Urgente pero entusiasta (no agresivo)
-• Énfasis en: "POCAS UNIDADES", "RÁPIDO", "GRATIS", "SEIS MESES", "AHORA"
-• Contacto visual: Directo a cámara al inicio y cierre
-• Velocidad: Rápida con energía, pausar en beneficios clave
-• Grabar: VERTICAL SIEMPRE (9:16)
-IMPORTANTE:
-• La asesora debe mostrar el iPhone naturalmente (no forzado)
-• Sonreír al mencionar los accesorios gratis
-• Tono de "te estoy ayudando a no perder esta oportunidad"
-• En el cierre, gesto de urgencia (señalar o gesto de "apúrate")
-╔══════════════════════════════════════════════════
-📋 RESUMEN PARA PRODUCCIÓN:
-LO QUE NECESITAS:
-• iPhone 15 en diferentes colores (al menos 2-3)
-• Accesorios (case, vidrio, cargador) para mostrar
-• Asesora con buena energía y naturalidad
-ESTRUCTURA DEL VIDEO:
-• 0-8 seg: Asesora con iPhone en mano (hook + urgencia)
-• 8-20 seg: Cortes a producto mientras voz continúa (características + beneficios)
-• 20-28 seg: Retoma asesora para CTA urgente + ubicación
-TIPS DE GRABACIÓN:
-• Iluminación natural o buena luz artificial
-• Fondo limpio (idealmente la tienda)
-• Audio claro de la asesora
-• Tomas del iPhone con buena calidad (no borrosas)
-
----
-
 
 ## 🔧 SERVICIO TÉCNICO
 
-**Total en esta línea:** 4 contenidos
-
-### 👋 Presentación
-
-#### ⏳ En Preparación (1)
-
-##### Pantalla rota - Reparación profesional
-
-**Formato:** 🎥 Video
-
-**📋 GUION COMPLETO:**
-
-1️⃣ QUÉ DIRÁ EL ANUNCIO
-📱 Pantalla rota no es solo cambiar el vidrio
-Una reparación mal hecha puede dañar:
-❌ El touch (dejar de responder al tacto)
-❌ La cámara frontal
-❌ El Face ID para siempre
-En Mister Manzana hacemos reparaciones COMPLETAS y PROFESIONALES:
-✅ Pantallas originales de calidad
-✅ Herramientas especializadas (no improvisamos)
-✅ Revisamos TODO el sistema antes y después
-✅ 1 MES de garantía real
-✅ Reparación el mismo día
-⚠️ No arriesgues tu iPhone con reparaciones baratas.
-8 años de experiencia nos respaldan.
-📍 Cra. 53 #79-279, Local 106 – CC Royal Washington
-📱 Escríbenos para agendar tu reparación ⚡
-2️⃣ QUÉ NECESITO
-• iPhone con pantalla rota (fisura visible)
-• Pantalla nueva original
-• Herramientas profesionales visibles
-• Técnico trabajando
-• Mesa de trabajo limpia
-3️⃣ QUÉ VOY A GRABAR
-ESCENA 1 (2 seg): Close-up de pantalla rota con fisuras
-ESCENA 2 (2 seg): Intentar usar el iPhone (touch no responde bien)
-ESCENA 3 (3 seg): Técnico recibiendo el iPhone y revisando
-ESCENA 4 (3 seg): Abrir iPhone con herramientas profesionales
-ESCENA 5 (4 seg): Quitar pantalla rota + mostrar pantalla nueva (acelerar)
-ESCENA 6 (2 seg): Instalar pantalla nueva
-ESCENA 7 (2 seg): Probar touch, cámara, todo funcionando
-ESCENA 8 (2 seg): iPhone perfecto + cliente/técnico sonriendo
-ESCENA 9 (3 seg): Logo + ubicación
-TOTAL: 23 segundos
-4️⃣ NOTAS
-• Grabar en VERTICAL
-• Mostrar ANTES (pantalla rota) y DESPUÉS (perfecta)
-• Close-ups de las herramientas trabajando
-• Música dinámica
-• Texto al inicio: "¿Pantalla rota?" y al final: ubicación
-
----
+**Total en esta línea:** 3 contenidos
 
 ### 🔍 Evaluación
 
@@ -449,22 +217,22 @@ Mensaje clave: Desmitificar que es "imposible" de reparar y posicionarnos como l
 
 ### 📈 Por Estado de Preparación:
 - ✅ **Listos para Producir:** 0
-- ⏳ **En Preparación:** 6
+- ⏳ **En Preparación:** 3
 
 ### 🎯 Por Línea:
-- 🛒 **Ventas:** 2
-- 🔧 **Servicio Técnico:** 4
+- 🛒 **Ventas:** 0
+- 🔧 **Servicio Técnico:** 3
 
 ### 📱 Por Formato:
-- 🎥 **Video:** 5
+- 🎥 **Video:** 2
 - 📸 **Imagen:** 1
 
 ### 📝 Contenido de Guiones:
-- ✅ **Con guion completo:** 6
+- ✅ **Con guion completo:** 3
 - ⚠️ **Sin guion:** 0
 
 ### 📊 Progreso de Preparación:
-- **Total de contenidos:** 6
+- **Total de contenidos:** 3
 - **Listos para producir:** 0
 - **Porcentaje listo:** 0% `░░░░░░░░░░░░░░░░░░░░`
 - **Con guion completo:** 100%

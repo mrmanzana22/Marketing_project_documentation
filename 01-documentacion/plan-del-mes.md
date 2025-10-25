@@ -1,6 +1,6 @@
 # 📅 PLAN DEL MES - PRODUCCIÓN DE CONTENIDO
 
-**Última sincronización:** 25/10/2025, 20:55:06
+**Última sincronización:** 25/10/2025, 21:00:07
 **Total de contenidos planificados:** 5
 
 ---
@@ -28,7 +28,7 @@
 - **Fase:** Evaluación
 - **Formato:** Video
 - **Producto/Servicio:** Reparación Pantalla
-- **Estado:** ⚪ Por Hacer
+- **Estado:** 🔵 En Preparación
 
 
 ### 🟢 Prioridad Baja
@@ -38,14 +38,14 @@
 - **Fase:** Conversión
 - **Formato:** Video
 - **Producto/Servicio:** iPhone (General)
-- **Estado:** ⚪ En Espera
+- **Estado:** ⚪ Por Hacer
 
 #### iPhone Mojado - Salvamento de Emergencia
 - **Línea:** 🔧 Servicio Técnico
 - **Fase:** Conversión
 - **Formato:** Video
 - **Producto/Servicio:** Diagnóstico Completo
-- **Estado:** ⚪ En Espera
+- **Estado:** ⚪ Por Hacer
 
 
 ---
@@ -53,8 +53,8 @@
 ## 📊 ESTADÍSTICAS DEL PLAN
 
 ### 📈 Por Estado:
-- ⚪ **Por Hacer:** 2
-- 🔵 **En Preparación:** 1
+- ⚪ **Por Hacer:** 3
+- 🔵 **En Preparación:** 2
 - 🟡 **Listo para Producir:** 0
 - 🟢 **Producido:** 0
 - ✅ **Publicado:** 0

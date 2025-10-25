@@ -1,6 +1,6 @@
 # 📅 PLAN DEL MES - PRODUCCIÓN DE CONTENIDO
 
-**Última sincronización:** 24/10/2025, 22:20:06
+**Última sincronización:** 25/10/2025, 20:55:06
 **Total de contenidos planificados:** 5
 
 ---
@@ -16,11 +16,11 @@
 - **Producto/Servicio:** Cambio de Batería
 - **Estado:** ⚪ Por Hacer
 
-#### iPhone 15 - Últimas Unidades (Conversión Renovada)
-- **Línea:** 🛒 Ventas
-- **Fase:** Conversión
-- **Formato:** Video
-- **Producto/Servicio:** iPhone (General)
+#### Diagnóstico completo GRATIS
+- **Línea:** 🔧 Servicio Técnico
+- **Fase:** Evaluación
+- **Formato:** Imagen
+- **Producto/Servicio:** Diagnóstico Completo
 - **Estado:** 🔵 En Preparación
 
 #### Cambio de Pantalla Profesional
@@ -28,24 +28,24 @@
 - **Fase:** Evaluación
 - **Formato:** Video
 - **Producto/Servicio:** Reparación Pantalla
-- **Estado:** 🔵 En Preparación
+- **Estado:** ⚪ Por Hacer
+
+
+### 🟢 Prioridad Baja
+
+#### iPhone 15 - Últimas Unidades (Conversión Renovada)
+- **Línea:** 🛒 Ventas
+- **Fase:** Conversión
+- **Formato:** Video
+- **Producto/Servicio:** iPhone (General)
+- **Estado:** ⚪ En Espera
 
 #### iPhone Mojado - Salvamento de Emergencia
 - **Línea:** 🔧 Servicio Técnico
 - **Fase:** Conversión
 - **Formato:** Video
 - **Producto/Servicio:** Diagnóstico Completo
-- **Estado:** 🔵 En Preparación
-
-
-### 🟡 Prioridad Media
-
-#### Diagnóstico completo GRATIS
-- **Línea:** 🔧 Servicio Técnico
-- **Fase:** Evaluación
-- **Formato:** Imagen
-- **Producto/Servicio:** Diagnóstico Completo
-- **Estado:** ⚪ Por Hacer
+- **Estado:** ⚪ En Espera
 
 
 ---
@@ -54,7 +54,7 @@
 
 ### 📈 Por Estado:
 - ⚪ **Por Hacer:** 2
-- 🔵 **En Preparación:** 3
+- 🔵 **En Preparación:** 1
 - 🟡 **Listo para Producir:** 0
 - 🟢 **Producido:** 0
 - ✅ **Publicado:** 0
@@ -64,9 +64,9 @@
 - 🔧 **Servicio Técnico:** 4
 
 ### ⚡ Por Prioridad:
-- 🔴 **Alta:** 4
-- 🟡 **Media:** 1
-- 🟢 **Baja:** 0
+- 🔴 **Alta:** 3
+- 🟡 **Media:** 0
+- 🟢 **Baja:** 2
 
 ### 📱 Por Formato:
 - **Video:** 4

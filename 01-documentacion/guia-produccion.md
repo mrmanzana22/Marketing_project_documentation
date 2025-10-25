@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 24/10/2025, 22:30:07
+**Última sincronización:** 25/10/2025, 20:55:07
 **Total de contenidos en guía:** 5
 
 ---
@@ -100,7 +100,7 @@ TOTAL: 25-30 segundos de video
 
 ### 🔍 Evaluación
 
-#### ⏳ En Preparación (3)
+#### ✅ Listos para Producir (3)
 
 ##### Batería que muere rápido
 
@@ -310,7 +310,7 @@ TOTAL: 25-30 segundos
 
 ### 💰 Conversión
 
-#### ⏳ En Preparación (1)
+#### ✅ Listos para Producir (1)
 
 ##### iPhone Mojado - Salvamento de Emergencia
 
@@ -399,8 +399,8 @@ TOTAL: 20-25 segundos
 ## 📊 ESTADÍSTICAS DE LA GUÍA
 
 ### 📈 Por Estado de Preparación:
-- ✅ **Listos para Producir:** 0
-- ⏳ **En Preparación:** 5
+- ✅ **Listos para Producir:** 4
+- ⏳ **En Preparación:** 1
 
 ### 🎯 Por Línea:
 - 🛒 **Ventas:** 1
@@ -416,8 +416,8 @@ TOTAL: 20-25 segundos
 
 ### 📊 Progreso de Preparación:
 - **Total de contenidos:** 5
-- **Listos para producir:** 0
-- **Porcentaje listo:** 0% `░░░░░░░░░░░░░░░░░░░░`
+- **Listos para producir:** 4
+- **Porcentaje listo:** 80% `████████████████░░░░`
 - **Con guion completo:** 100%
 
 ---

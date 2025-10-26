@@ -1,13 +1,102 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 26/10/2025, 22:55:07
+**Última sincronización:** 26/10/2025, 23:00:08
 **Total de contenidos en guía:** 5
 
 ---
 
+## 🛒 VENTAS
+
+**Total en esta línea:** 1 contenidos
+
+### 💰 Conversión
+
+#### ⏳ En Preparación (1)
+
+##### iPhone 15 - Últimas Unidades (Conversión Renovada)
+
+**Formato:** 🎥 Video
+
+**📋 GUION COMPLETO:**
+
+🎬 iPHONE 15 - ÚLTIMAS UNIDADES (CONVERSIÓN RENOVADA)
+
+Línea: Ventas | Fase: Conversión | Formato: Video | Duración: 25-30 seg
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1️⃣ QUÉ DIRÁ EL ANUNCIO (Guion)
+
+📱 ¿SABES QUÉ PASA CUANDO COMPRAS UN iPHONE EN OTROS LUGARES?
+
+Te venden el teléfono pelado. Luego toca buscar el case, comprar el vidrio aparte, pagar envío, y rezar que si algo falla te den más de 30 días de garantía.
+
+Aquí NO.
+
+El iPhone 15 que tenemos (ÚLTIMAS UNIDADES por cierto) viene BLINDADO desde el día uno:
+
+🛡️ Protección completa sin que gastes un peso más (ya sabes: case, vidrio, cargador)
+📦 Te lo llevamos donde estés en Colombia - cero pesos de envío
+⚡ 6 MESES de respaldo real - no esos 30-90 días ridículos que dan por ahí
+🔧 ¿Se daña algo? Aquí mismo lo reparamos, no tienes que andar buscando técnicos desconocidos
+
+Y ah, el iPhone 15: cámara de 48MP que hace magia, Dynamic Island, chip A16 Bionic que vuela, batería que aguanta TODO tu día.
+
+⏰ PERO OJO - Quedan MUY pocas unidades. Cuando se acaben, toca esperar al próximo embarque.
+
+📍 Cra. 53 #79-279, Local 106 – CC Royal Washington
+📱 Escríbenos AHORA antes que otro se lleve el tuyo ⚡
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2️⃣ QUÉ NECESITO PARA GRABARLO
+
+- iPhone 15 (el producto protagonista)
+- Caja del iPhone 15
+- Accesorios completos (case, vidrio templado, cargador)
+- Vendedor/presentador para hablar a cámara
+- Mesa de trabajo limpia y organizada
+- Buena luz (que se vea profesional)
+- Fondo limpio (puede ser el local)
+- Otros iPhones 15 si hay varios para mostrar stock
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3️⃣ QUÉ VOY A GRABAR (Orden de las escenas)
+
+ESCENA 1 (3s): Vendedor hablando a cámara con expresión de "te voy a contar algo"
+ESCENA 2 (3s): Mostrar un iPhone "pelado" solo (sin accesorios) para ilustrar el problema
+ESCENA 3 (3s): Transición - Vendedor dice "Aquí NO" y muestra el iPhone 15 con TODOS los accesorios
+ESCENA 4 (3s): Close-up del iPhone 15 con case, vidrio y cargador juntos
+ESCENA 5 (3s): Mostrar iPhone 15 funcionando (cámara 48MP, Dynamic Island en acción)
+ESCENA 6 (3s): Vendedor mostrando señal de urgencia "POCAS UNIDADES" (2-3 iPhones restantes)
+ESCENA 7 (3s): Gesto de "apúrate" o señalando reloj (urgencia visual)
+ESCENA 8 (3s): Logo Mister Manzana + ubicación en pantalla
+
+TOTAL: 25-30 segundos de video
+
+💡 TODO ESTO ES VARIABLE Y OPCIONAL
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4️⃣ NOTAS IMPORTANTES
+
+- Grabar en VERTICAL (celular parado como para stories)
+- VENDEDOR HABLA EN EL VIDEO con tono CONVERSACIONAL pero urgente
+- Música: Energética pero que NO tape la voz
+- Enfatizar el CONTRASTE: "otros lugares" vs "aquí NO"
+- Mostrar visualmente el "antes" (iPhone pelado) y "después" (iPhone blindado)
+- Tono más cercano y storytelling - no es lista fría de beneficios
+- La urgencia viene al final, no domina todo el video
+- Mantener energía alta pero natural, como contándole a un amigo
+- Similar al tono conversacional que funcionó en videos ganadores anteriores
+
+---
+
+
 ## 🔧 SERVICIO TÉCNICO
 
-**Total en esta línea:** 5 contenidos
+**Total en esta línea:** 4 contenidos
 
 ### 🔍 Evaluación
 
@@ -306,88 +395,6 @@ TOTAL: 20-25 segundos
 
 ---
 
-#### ⏳ En Preparación (1)
-
-##### iPhone 15 - Últimas Unidades (Conversión Renovada)
-
-**Formato:** 🎥 Video
-
-**📋 GUION COMPLETO:**
-
-🎬 iPHONE 15 - ÚLTIMAS UNIDADES (CONVERSIÓN RENOVADA)
-
-Línea: Ventas | Fase: Conversión | Formato: Video | Duración: 25-30 seg
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1️⃣ QUÉ DIRÁ EL ANUNCIO (Guion)
-
-📱 ¿SABES QUÉ PASA CUANDO COMPRAS UN iPHONE EN OTROS LUGARES?
-
-Te venden el teléfono pelado. Luego toca buscar el case, comprar el vidrio aparte, pagar envío, y rezar que si algo falla te den más de 30 días de garantía.
-
-Aquí NO.
-
-El iPhone 15 que tenemos (ÚLTIMAS UNIDADES por cierto) viene BLINDADO desde el día uno:
-
-🛡️ Protección completa sin que gastes un peso más (ya sabes: case, vidrio, cargador)
-📦 Te lo llevamos donde estés en Colombia - cero pesos de envío
-⚡ 6 MESES de respaldo real - no esos 30-90 días ridículos que dan por ahí
-🔧 ¿Se daña algo? Aquí mismo lo reparamos, no tienes que andar buscando técnicos desconocidos
-
-Y ah, el iPhone 15: cámara de 48MP que hace magia, Dynamic Island, chip A16 Bionic que vuela, batería que aguanta TODO tu día.
-
-⏰ PERO OJO - Quedan MUY pocas unidades. Cuando se acaben, toca esperar al próximo embarque.
-
-📍 Cra. 53 #79-279, Local 106 – CC Royal Washington
-📱 Escríbenos AHORA antes que otro se lleve el tuyo ⚡
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-2️⃣ QUÉ NECESITO PARA GRABARLO
-
-- iPhone 15 (el producto protagonista)
-- Caja del iPhone 15
-- Accesorios completos (case, vidrio templado, cargador)
-- Vendedor/presentador para hablar a cámara
-- Mesa de trabajo limpia y organizada
-- Buena luz (que se vea profesional)
-- Fondo limpio (puede ser el local)
-- Otros iPhones 15 si hay varios para mostrar stock
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-3️⃣ QUÉ VOY A GRABAR (Orden de las escenas)
-
-ESCENA 1 (3s): Vendedor hablando a cámara con expresión de "te voy a contar algo"
-ESCENA 2 (3s): Mostrar un iPhone "pelado" solo (sin accesorios) para ilustrar el problema
-ESCENA 3 (3s): Transición - Vendedor dice "Aquí NO" y muestra el iPhone 15 con TODOS los accesorios
-ESCENA 4 (3s): Close-up del iPhone 15 con case, vidrio y cargador juntos
-ESCENA 5 (3s): Mostrar iPhone 15 funcionando (cámara 48MP, Dynamic Island en acción)
-ESCENA 6 (3s): Vendedor mostrando señal de urgencia "POCAS UNIDADES" (2-3 iPhones restantes)
-ESCENA 7 (3s): Gesto de "apúrate" o señalando reloj (urgencia visual)
-ESCENA 8 (3s): Logo Mister Manzana + ubicación en pantalla
-
-TOTAL: 25-30 segundos de video
-
-💡 TODO ESTO ES VARIABLE Y OPCIONAL
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-4️⃣ NOTAS IMPORTANTES
-
-- Grabar en VERTICAL (celular parado como para stories)
-- VENDEDOR HABLA EN EL VIDEO con tono CONVERSACIONAL pero urgente
-- Música: Energética pero que NO tape la voz
-- Enfatizar el CONTRASTE: "otros lugares" vs "aquí NO"
-- Mostrar visualmente el "antes" (iPhone pelado) y "después" (iPhone blindado)
-- Tono más cercano y storytelling - no es lista fría de beneficios
-- La urgencia viene al final, no domina todo el video
-- Mantener energía alta pero natural, como contándole a un amigo
-- Similar al tono conversacional que funcionó en videos ganadores anteriores
-
----
-
 
 ## 📊 ESTADÍSTICAS DE LA GUÍA
 
@@ -396,8 +403,8 @@ TOTAL: 25-30 segundos de video
 - ⏳ **En Preparación:** 1
 
 ### 🎯 Por Línea:
-- 🛒 **Ventas:** 0
-- 🔧 **Servicio Técnico:** 5
+- 🛒 **Ventas:** 1
+- 🔧 **Servicio Técnico:** 4
 
 ### 📱 Por Formato:
 - 🎥 **Video:** 4

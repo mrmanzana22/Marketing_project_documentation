@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 26/10/2025, 23:00:08
+**Última sincronización:** 28/10/2025, 20:35:07
 **Total de contenidos en guía:** 5
 
 ---
@@ -114,7 +114,7 @@ TOTAL: 25-30 segundos de video
 Esa batería ya está en 75% o menos...
 
 En Mister Manzana tu iPhone vuelve a durar todo el día:
-✅ Diagnóstico GRATIS en 30 minutos
+✅ Diagnóstico GRATIS en 10 minutos
 ✅ Baterías originales instaladas con herramientas profesionales
 ✅ Verificamos que no haya daños ocultos
 ✅ 1 MES de garantía real

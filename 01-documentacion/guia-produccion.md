@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 30/10/2025, 17:55:07
+**Última sincronización:** 30/10/2025, 19:25:07
 **Total de contenidos en guía:** 5
 
 ---
@@ -27,25 +27,16 @@ Línea: Ventas | Fase: Conversión | Formato: Video | Duración: 25-30 seg
 
 1️⃣ QUÉ DIRÁ EL ANUNCIO (Guion)
 
-📱 ¿SABES QUÉ PASA CUANDO COMPRAS UN iPHONE EN OTROS LUGARES?
+📱 ¿QUIERES EL iPHONE 15? ESTE ES EL MOMENTO.
+Últimas unidades disponibles, Aprovecha que estos precios NO VUELVEN.
 
-Te venden el teléfono pelado. Luego toca buscar el case, comprar el vidrio aparte, pagar envío, y rezar que si algo falla te den más de 30 días de garantía.
+iPhone 15 con cámara de 48 Megapixeles junto a la isla dinámica que todos quieren.
 
-Aquí NO.
-
-El iPhone 15 que tenemos (ÚLTIMAS UNIDADES por cierto) viene BLINDADO desde el día uno:
-
-🛡️ Protección completa sin que gastes un peso más (ya sabes: case, vidrio, cargador)
-📦 Te lo llevamos donde estés en Colombia - cero pesos de envío
-⚡ 6 MESES de respaldo real - no esos 30-90 días ridículos que dan por ahí
-🔧 ¿Se daña algo? Aquí mismo lo reparamos, no tienes que andar buscando técnicos desconocidos
-
-Y ah, el iPhone 15: cámara de 48MP que hace magia, Dynamic Island, chip A16 Bionic que vuela, batería que aguanta TODO tu día.
-
-⏰ PERO OJO - Quedan MUY pocas unidades. Cuando se acaben, toca esperar al próximo embarque.
-
-📍 Cra. 53 #79-279, Local 106 – CC Royal Washington
-📱 Escríbenos AHORA antes que otro se lleve el tuyo ⚡
+Y como ya te lo sabes, te viene con:
+✅ TODOS LOS ACCESORIOS GRATIS
+✅ 6 MESES DE GARANTÍA
+⚠️ APROVECHA, que no son para siempre.
+📱 Escríbenos AHORA antes que sea tarde ⚡
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

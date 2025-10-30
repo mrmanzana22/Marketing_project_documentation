@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 28/10/2025, 23:10:07
+**Última sincronización:** 30/10/2025, 17:55:07
 **Total de contenidos en guía:** 5
 
 ---
@@ -11,7 +11,7 @@
 
 ### 💰 Conversión
 
-#### ⏳ En Preparación (1)
+#### ✅ Listos para Producir (1)
 
 ##### iPhone 15 - Últimas Unidades (Conversión Renovada)
 
@@ -401,8 +401,8 @@ TOTAL: 20-25 segundos
 ## 📊 ESTADÍSTICAS DE LA GUÍA
 
 ### 📈 Por Estado de Preparación:
-- ✅ **Listos para Producir:** 1
-- ⏳ **En Preparación:** 4
+- ✅ **Listos para Producir:** 2
+- ⏳ **En Preparación:** 3
 
 ### 🎯 Por Línea:
 - 🛒 **Ventas:** 1
@@ -418,8 +418,8 @@ TOTAL: 20-25 segundos
 
 ### 📊 Progreso de Preparación:
 - **Total de contenidos:** 5
-- **Listos para producir:** 1
-- **Porcentaje listo:** 20% `████░░░░░░░░░░░░░░░░`
+- **Listos para producir:** 2
+- **Porcentaje listo:** 40% `████████░░░░░░░░░░░░`
 - **Con guion completo:** 100%
 
 ---

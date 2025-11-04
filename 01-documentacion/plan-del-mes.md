@@ -1,7 +1,7 @@
 # 📅 PLAN DEL MES - PRODUCCIÓN DE CONTENIDO
 
-**Última sincronización:** 4/11/2025, 14:30:06
-**Total de contenidos planificados:** 6
+**Última sincronización:** 4/11/2025, 14:40:06
+**Total de contenidos planificados:** 7
 
 ---
 
@@ -37,6 +37,13 @@
 - **Producto/Servicio:** iPhone (General)
 - **Estado:** 🔵 En Preparación
 
+#### COMBO ESPECIAL - iPhone + AirPods Pro 2 GRATIS
+- **Línea:** 🛒 Ventas
+- **Fase:** Conversión
+- **Formato:** Video
+- **Producto/Servicio:** iPhone (General)
+- **Estado:** 🔵 En Preparación
+
 
 ### 🟢 Prioridad Baja
 
@@ -61,26 +68,26 @@
 
 ### 📈 Por Estado:
 - ⚪ **Por Hacer:** 3
-- 🔵 **En Preparación:** 3
+- 🔵 **En Preparación:** 4
 - 🟡 **Listo para Producir:** 0
 - 🟢 **Producido:** 0
 - ✅ **Publicado:** 0
 
 ### 🎯 Por Línea:
-- 🛒 **Ventas:** 2
+- 🛒 **Ventas:** 3
 - 🔧 **Servicio Técnico:** 4
 
 ### ⚡ Por Prioridad:
-- 🔴 **Alta:** 4
+- 🔴 **Alta:** 5
 - 🟡 **Media:** 0
 - 🟢 **Baja:** 2
 
 ### 📱 Por Formato:
-- **Video:** 5
+- **Video:** 6
 - **Imagen:** 1
 
 ### 📊 Progreso General:
-- **Total de contenidos:** 6
+- **Total de contenidos:** 7
 - **Completados (Producido + Publicado):** 0
 - **Progreso:** 0% `░░░░░░░░░░░░░░░░░░░░`
 

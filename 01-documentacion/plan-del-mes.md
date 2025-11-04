@@ -1,7 +1,7 @@
 # 📅 PLAN DEL MES - PRODUCCIÓN DE CONTENIDO
 
-**Última sincronización:** 25/10/2025, 21:00:07
-**Total de contenidos planificados:** 5
+**Última sincronización:** 4/11/2025, 14:25:07
+**Total de contenidos planificados:** 6
 
 ---
 
@@ -30,6 +30,13 @@
 - **Producto/Servicio:** Reparación Pantalla
 - **Estado:** 🔵 En Preparación
 
+#### COMBO ESPECIAL - iPhone + AirPods Pro 2 GRATIS
+- **Línea:** 🛒 Ventas
+- **Fase:** Conversión
+- **Formato:** Video
+- **Producto/Servicio:** iPhone (General)
+- **Estado:** ⚪ Por Hacer
+
 
 ### 🟢 Prioridad Baja
 
@@ -53,27 +60,27 @@
 ## 📊 ESTADÍSTICAS DEL PLAN
 
 ### 📈 Por Estado:
-- ⚪ **Por Hacer:** 3
+- ⚪ **Por Hacer:** 4
 - 🔵 **En Preparación:** 2
 - 🟡 **Listo para Producir:** 0
 - 🟢 **Producido:** 0
 - ✅ **Publicado:** 0
 
 ### 🎯 Por Línea:
-- 🛒 **Ventas:** 1
+- 🛒 **Ventas:** 2
 - 🔧 **Servicio Técnico:** 4
 
 ### ⚡ Por Prioridad:
-- 🔴 **Alta:** 3
+- 🔴 **Alta:** 4
 - 🟡 **Media:** 0
 - 🟢 **Baja:** 2
 
 ### 📱 Por Formato:
-- **Video:** 4
+- **Video:** 5
 - **Imagen:** 1
 
 ### 📊 Progreso General:
-- **Total de contenidos:** 5
+- **Total de contenidos:** 6
 - **Completados (Producido + Publicado):** 0
 - **Progreso:** 0% `░░░░░░░░░░░░░░░░░░░░`
 

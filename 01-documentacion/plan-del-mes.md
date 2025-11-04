@@ -1,6 +1,6 @@
 # 📅 PLAN DEL MES - PRODUCCIÓN DE CONTENIDO
 
-**Última sincronización:** 4/11/2025, 15:15:06
+**Última sincronización:** 4/11/2025, 15:20:07
 **Total de contenidos planificados:** 6
 
 ---
@@ -9,26 +9,12 @@
 
 ### 🔴 Prioridad Alta
 
-#### Batería que muere rápido
-- **Línea:** 🔧 Servicio Técnico
-- **Fase:** Evaluación
-- **Formato:** Video
-- **Producto/Servicio:** Cambio de Batería
-- **Estado:** ⚪ Por Hacer
-
 #### Diagnóstico completo GRATIS
 - **Línea:** 🔧 Servicio Técnico
 - **Fase:** Evaluación
 - **Formato:** Imagen
 - **Producto/Servicio:** Diagnóstico Completo
-- **Estado:** 🔵 En Preparación
-
-#### Cambio de Pantalla Profesional
-- **Línea:** 🔧 Servicio Técnico
-- **Fase:** Evaluación
-- **Formato:** Video
-- **Producto/Servicio:** Reparación Pantalla
-- **Estado:** 🔵 En Preparación
+- **Estado:** ✅ Publicado
 
 #### COMBO ESPECIAL - iPhone + AirPods Pro 2 GRATIS
 - **Línea:** 🛒 Ventas
@@ -38,6 +24,16 @@
 - **Estado:** 🔵 En Preparación
 
 
+### 🟡 Prioridad Media
+
+#### Batería que muere rápido
+- **Línea:** 🔧 Servicio Técnico
+- **Fase:** Evaluación
+- **Formato:** Video
+- **Producto/Servicio:** Cambio de Batería
+- **Estado:** ⚪ Por Hacer
+
+
 ### 🟢 Prioridad Baja
 
 #### iPhone 15 - Últimas Unidades (Conversión Renovada)
@@ -45,6 +41,13 @@
 - **Fase:** Conversión
 - **Formato:** Video
 - **Producto/Servicio:** iPhone (General)
+- **Estado:** ⚪ Por Hacer
+
+#### Cambio de Pantalla Profesional
+- **Línea:** 🔧 Servicio Técnico
+- **Fase:** Evaluación
+- **Formato:** Video
+- **Producto/Servicio:** Reparación Pantalla
 - **Estado:** ⚪ Por Hacer
 
 #### iPhone Mojado - Salvamento de Emergencia
@@ -60,20 +63,20 @@
 ## 📊 ESTADÍSTICAS DEL PLAN
 
 ### 📈 Por Estado:
-- ⚪ **Por Hacer:** 3
-- 🔵 **En Preparación:** 3
+- ⚪ **Por Hacer:** 4
+- 🔵 **En Preparación:** 1
 - 🟡 **Listo para Producir:** 0
 - 🟢 **Producido:** 0
-- ✅ **Publicado:** 0
+- ✅ **Publicado:** 1
 
 ### 🎯 Por Línea:
 - 🛒 **Ventas:** 2
 - 🔧 **Servicio Técnico:** 4
 
 ### ⚡ Por Prioridad:
-- 🔴 **Alta:** 4
-- 🟡 **Media:** 0
-- 🟢 **Baja:** 2
+- 🔴 **Alta:** 2
+- 🟡 **Media:** 1
+- 🟢 **Baja:** 3
 
 ### 📱 Por Formato:
 - **Video:** 5
@@ -81,8 +84,8 @@
 
 ### 📊 Progreso General:
 - **Total de contenidos:** 6
-- **Completados (Producido + Publicado):** 0
-- **Progreso:** 0% `░░░░░░░░░░░░░░░░░░░░`
+- **Completados (Producido + Publicado):** 1
+- **Progreso:** 17% `███░░░░░░░░░░░░░░░░░`
 
 ---
 *Documento generado automáticamente desde Notion - Base "Plan del Mes"*

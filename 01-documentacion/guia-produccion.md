@@ -1,13 +1,13 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 30/10/2025, 19:25:07
-**Total de contenidos en guía:** 5
+**Última sincronización:** 4/11/2025, 14:30:07
+**Total de contenidos en guía:** 6
 
 ---
 
 ## 🛒 VENTAS
 
-**Total en esta línea:** 1 contenidos
+**Total en esta línea:** 2 contenidos
 
 ### 💰 Conversión
 
@@ -81,6 +81,96 @@ TOTAL: 25-30 segundos de video
 - La urgencia viene al final, no domina todo el video
 - Mantener energía alta pero natural, como contándole a un amigo
 - Similar al tono conversacional que funcionó en videos ganadores anteriores
+
+---
+
+#### ⏳ En Preparación (1)
+
+##### COMBO ESPECIAL - iPhone + AirPods Pro 2 GRATIS
+
+**Formato:** 🎥 Video
+
+**📋 GUION COMPLETO:**
+
+🎬 COMBO ESPECIAL - iPHONE + AIRPODS PRO 2 GRATIS
+
+Línea: Ventas | Fase: Conversión | Formato: Video | Duración: 25-30 seg
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1️⃣ QUÉ DIRÁ EL ANUNCIO (Guion)
+
+🎁 ¿QUIERES LLEVAR AIRPODS PRO 2 GRATIS CON TU iPHONE?
+
+Esta es tu ÚNICA OPORTUNIDAD.
+
+Por tiempo LIMITADO, compra tu iPhone y llévate los AirPods Pro 2 COMPLETAMENTE GRATIS (valor de $1.200.000).
+
+Esto NO es una promoción que repetimos. Es AHORA o NUNCA.
+
+TU PAQUETE COMPLETO incluye:
+✅ iPhone de tu elección (13, 14, 15)
+✅ AirPods Pro 2 GRATIS
+✅ Case + vidrio + cargador GRATIS
+✅ 6 MESES de garantía REAL
+✅ ENVÍO GRATIS a toda Colombia
+
+⚠️ SOLO hasta agotar existencias - Y quedan POCAS unidades.
+
+📍 Cra. 53 #79-279, Local 106 – CC Royal Washington
+📱 ESCRÍBENOS AHORA antes que se acaben los AirPods - Esta oferta NO vuelve ⚡
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2️⃣ QUÉ NECESITO PARA GRABARLO
+
+• iPhone 13, 14 o 15 (los que incluyes en la promo)
+• AirPods Pro 2 en su caja SELLADA
+• Case, vidrio templado y cargador
+• Vendedor para hablar a cámara con energía
+• Mesa limpia y profesional
+• Buena luz
+• Fondo del local o limpio
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3️⃣ QUÉ VOY A GRABAR (Orden de las escenas)
+
+ESCENA 1 (3s): Vendedor hablando con MUCHA energía + mostrando iPhone en una mano y AirPods Pro 2 en la otra
+
+ESCENA 2 (3s): Close-up de la caja de AirPods Pro 2 SELLADA (mostrar el valor del regalo)
+
+ESCENA 3 (3s): Los 3 modelos de iPhone disponibles en mesa (13, 14, 15)
+
+ESCENA 4 (3s): Mostrar TODO el paquete junto: iPhone + AirPods + accesorios
+
+ESCENA 5 (3s): Vendedor empacando todo el combo en bolsa/caja
+
+ESCENA 6 (3s): Vendedor mostrando con cara de urgencia "ÚLTIMAS UNIDADES" o señalando stock limitado
+
+ESCENA 7 (3s): Cliente feliz recibiendo el combo completo (opcional si tienes cliente)
+
+ESCENA 8 (3s): Logo Mister Manzana + ubicación
+
+TOTAL: 25-30 segundos
+
+💡 TODO ESTO ES VARIABLE Y OPCIONAL
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4️⃣ NOTAS IMPORTANTES
+
+• Grabar en VERTICAL (9:16)
+• VENDEDOR HABLA EN EL VIDEO con MUCHA energía y entusiasmo
+• Música: MUY energética y urgente (tipo promoción especial)
+• CRÍTICO: Enfatizar que los AirPods Pro 2 valen más de $1.200.000
+• CRÍTICO: Enfatizar que es tiempo LIMITADO y stock LIMITADO
+• Mostrar los AirPods Pro 2 en su caja SELLADA (aumenta credibilidad)
+• Tono: URGENTE, PERSUASIVO, EMOCIONANTE
+• Este es un anuncio de CONVERSIÓN pura - debe generar acción INMEDIATA
+• Similar en energía al video de Halloween que funcionó súper bien
+• Destacar que es "AHORA O NUNCA" - crear FOMO (Fear Of Missing Out)
+• El vendedor debe transmitir emoción genuina por la oferta
 
 ---
 
@@ -393,24 +483,24 @@ TOTAL: 20-25 segundos
 
 ### 📈 Por Estado de Preparación:
 - ✅ **Listos para Producir:** 2
-- ⏳ **En Preparación:** 3
+- ⏳ **En Preparación:** 4
 
 ### 🎯 Por Línea:
-- 🛒 **Ventas:** 1
+- 🛒 **Ventas:** 2
 - 🔧 **Servicio Técnico:** 4
 
 ### 📱 Por Formato:
-- 🎥 **Video:** 4
+- 🎥 **Video:** 5
 - 📸 **Imagen:** 1
 
 ### 📝 Contenido de Guiones:
-- ✅ **Con guion completo:** 5
+- ✅ **Con guion completo:** 6
 - ⚠️ **Sin guion:** 0
 
 ### 📊 Progreso de Preparación:
-- **Total de contenidos:** 5
+- **Total de contenidos:** 6
 - **Listos para producir:** 2
-- **Porcentaje listo:** 40% `████████░░░░░░░░░░░░`
+- **Porcentaje listo:** 33% `███████░░░░░░░░░░░░░`
 - **Con guion completo:** 100%
 
 ---

@@ -1,6 +1,6 @@
 # 📅 PLAN DEL MES - PRODUCCIÓN DE CONTENIDO
 
-**Última sincronización:** 4/11/2025, 14:25:07
+**Última sincronización:** 4/11/2025, 14:30:06
 **Total de contenidos planificados:** 6
 
 ---
@@ -35,7 +35,7 @@
 - **Fase:** Conversión
 - **Formato:** Video
 - **Producto/Servicio:** iPhone (General)
-- **Estado:** ⚪ Por Hacer
+- **Estado:** 🔵 En Preparación
 
 
 ### 🟢 Prioridad Baja
@@ -60,8 +60,8 @@
 ## 📊 ESTADÍSTICAS DEL PLAN
 
 ### 📈 Por Estado:
-- ⚪ **Por Hacer:** 4
-- 🔵 **En Preparación:** 2
+- ⚪ **Por Hacer:** 3
+- 🔵 **En Preparación:** 3
 - 🟡 **Listo para Producir:** 0
 - 🟢 **Producido:** 0
 - ✅ **Publicado:** 0

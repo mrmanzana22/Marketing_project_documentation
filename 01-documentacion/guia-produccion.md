@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 4/11/2025, 15:15:07
+**Última sincronización:** 3/12/2025, 22:45:05
 **Total de contenidos en guía:** 6
 
 ---
@@ -200,8 +200,8 @@ En Mister Manzana tu iPhone vuelve a durar todo el día:
 ⚠️ Una batería mal instalada puede dañar la placa madre de tu iPhone.
 Nosotros lo hacemos bien desde el principio.
 
-📍 Cra. 53 #79-279, Local 106 – CC Royal Washington
-📱 Escríbenos y revive tu batería ⚡
+No esperes a que se apague en el peor momento.
+VEN A MR MANZANA y revive tu batería ⚡
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

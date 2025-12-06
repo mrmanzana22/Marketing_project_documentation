@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 3/12/2025, 22:45:05
+**Última sincronización:** 6/12/2025, 22:55:05
 **Total de contenidos en guía:** 6
 
 ---
@@ -188,18 +188,21 @@ TOTAL: 25-30 segundos
 
 1️⃣ QUE DIRA EL ANUNCIO (Guion)
 
-🔋 ¿Tu iPhone muere antes del mediodía?
-Esa batería ya está en 75% o menos...
+🔋 ¿Te da nostalgia recordar que tu bateria duraba mucho mas de lo que dura el dia de hoy?
 
-En Mister Manzana tu iPhone vuelve a durar todo el día:
-✅ Diagnóstico GRATIS en 10 minutos
+Acaso viste que la condición de tu bateria esta en un promedio de 85 - 80 hasta 75%?
+
+En Mister Manzana tu iPhone regresa a esos dias de GLORIA:
+
+✅ Te damos un Diagnóstico GRATIS en 10 minutos
 ✅ Baterías originales instaladas con herramientas profesionales
-✅ Verificamos que no haya daños ocultos
-✅ 1 MES de garantía real
+✅ Aprovechamos y revisamos que no hayan daños ocultos o adicionales a una bateria ya degradada
+✅Y como cereza del pastel TE DAMOS 1 MES de garantía real
 
-⚠️ Una batería mal instalada puede dañar la placa madre de tu iPhone.
+⚠️ Recuerda que, Una batería en mal estado o mal instalada puede ocasionar daños graves en tu iPhone.
+
+
 Nosotros lo hacemos bien desde el principio.
-
 No esperes a que se apague en el peor momento.
 VEN A MR MANZANA y revive tu batería ⚡
 

@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 6/12/2025, 22:55:05
+**Última sincronización:** 14/1/2026, 22:50:44
 **Total de contenidos en guía:** 6
 
 ---
@@ -178,7 +178,7 @@ TOTAL: 25-30 segundos
 
 ### 🔍 Evaluación
 
-#### ✅ Listos para Producir (1)
+#### ⏳ En Preparación (3)
 
 ##### Batería que muere rápido
 
@@ -245,8 +245,6 @@ TODO ESTO ES VARIABLE Y OPCIONAL
 • Similar al video ganador que ya funcionó
 
 ---
-
-#### ⏳ En Preparación (2)
 
 ##### Diagnóstico completo GRATIS
 
@@ -482,8 +480,8 @@ TOTAL: 20-25 segundos
 ## 📊 ESTADÍSTICAS DE LA GUÍA
 
 ### 📈 Por Estado de Preparación:
-- ✅ **Listos para Producir:** 1
-- ⏳ **En Preparación:** 5
+- ✅ **Listos para Producir:** 0
+- ⏳ **En Preparación:** 6
 
 ### 🎯 Por Línea:
 - 🛒 **Ventas:** 2
@@ -499,8 +497,8 @@ TOTAL: 20-25 segundos
 
 ### 📊 Progreso de Preparación:
 - **Total de contenidos:** 6
-- **Listos para producir:** 1
-- **Porcentaje listo:** 17% `███░░░░░░░░░░░░░░░░░`
+- **Listos para producir:** 0
+- **Porcentaje listo:** 0% `░░░░░░░░░░░░░░░░░░░░`
 - **Con guion completo:** 100%
 
 ---

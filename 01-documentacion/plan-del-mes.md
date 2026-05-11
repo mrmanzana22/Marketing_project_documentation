@@ -1,6 +1,6 @@
 # 📅 PLAN DEL MES - PRODUCCIÓN DE CONTENIDO
 
-**Última sincronización:** 14/4/2026, 19:05:06
+**Última sincronización:** 11/5/2026, 22:25:09
 **Total de contenidos planificados:** 6
 
 ---
@@ -9,19 +9,19 @@
 
 ### 🔴 Prioridad Alta
 
-#### Diagnóstico completo GRATIS
-- **Línea:** 🔧 Servicio Técnico
-- **Fase:** Evaluación
-- **Formato:** Imagen
-- **Producto/Servicio:** Diagnóstico Completo
-- **Estado:** ✅ Publicado
-
 #### COMBO ESPECIAL - iPhone + AirPods Pro 2 GRATIS
 - **Línea:** 🛒 Ventas
 - **Fase:** Conversión
 - **Formato:** Video
 - **Producto/Servicio:** iPhone (General)
 - **Estado:** 🔵 En Preparación
+
+#### Diagnóstico completo GRATIS
+- **Línea:** 🔧 Servicio Técnico
+- **Fase:** Evaluación
+- **Formato:** Imagen
+- **Producto/Servicio:** Diagnóstico Completo
+- **Estado:** ✅ Publicado
 
 
 ### 🟡 Prioridad Media
@@ -43,18 +43,18 @@
 - **Producto/Servicio:** iPhone (General)
 - **Estado:** ⚪ Por Hacer
 
-#### Cambio de Pantalla Profesional
-- **Línea:** 🔧 Servicio Técnico
-- **Fase:** Evaluación
-- **Formato:** Video
-- **Producto/Servicio:** Reparación Pantalla
-- **Estado:** ⚪ Por Hacer
-
 #### iPhone Mojado - Salvamento de Emergencia
 - **Línea:** 🔧 Servicio Técnico
 - **Fase:** Conversión
 - **Formato:** Video
 - **Producto/Servicio:** Diagnóstico Completo
+- **Estado:** ⚪ Por Hacer
+
+#### Cambio de Pantalla Profesional
+- **Línea:** 🔧 Servicio Técnico
+- **Fase:** Evaluación
+- **Formato:** Video
+- **Producto/Servicio:** Reparación Pantalla
 - **Estado:** ⚪ Por Hacer
 
 

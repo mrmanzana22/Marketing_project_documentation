@@ -1,6 +1,6 @@
 # 📊 BASE DE DATOS - ANUNCIOS
 
-**Última sincronización:** 14/4/2026, 19:05:06
+**Última sincronización:** 11/5/2026, 22:25:09
 **Total de anuncios en base de datos:** 12
 
 ---
@@ -10,20 +10,6 @@
 **Total en esta línea:** 9 anuncios
 
 ### 🏆 ANUNCIOS GANADORES
-
-#### Halloween - iPhone 12 con 35% OFF
-- **Estado:** ✅ Publicado
-- **Fase:** Conversión
-- **Formato:** 🎠 Carrusel
-- **Producto/Servicio:** iPhone 12
-- **Performance:** 🌟 Excelente
-- **Notas:** promocion de halloween carrusel, imagenes muy bonitas para la vista, muy atractivo para el cliente, funciono mucho para todas las fases.
-- **Categoría:** E - Urgencia/Escasez
-- **Campaña:** campaña de PROMOCION OCTUBRE 2025
-- **Fecha Creación:** 20/10/2025
-- **Copy:** "🎃 ¡OFERTA ESPECIAL HALLOWEEN! 
-iPhone 12 / Pro / Pro Max con 35% DE DESCUENTO
-Precios que DAN MIEDO..."
 
 #### Halloween - iPhone 13 Pro Max 35% OFF
 - **Estado:** ✅ Publicado
@@ -39,17 +25,47 @@ Precios que DAN MIEDO..."
 iPhone 13 Pro Max con 35% DE DESCUENTO
 ¡Precios tan bajos que pa..."
 
-#### ¿Buscas un iPhone confiable?
+#### Halloween - iPhone 12 con 35% OFF
 - **Estado:** ✅ Publicado
-- **Fase:** Presentación
+- **Fase:** Conversión
 - **Formato:** 🎠 Carrusel
-- **Producto/Servicio:** iPhone (General)
+- **Producto/Servicio:** iPhone 12
 - **Performance:** 🌟 Excelente
-- **Notas:** funciona increíble, las cartas del carrusel se ven muy bien y es algo que para fase de presentación funciona excelente.
-- **Categoría:** A - Garantía como arma
-- **Campaña:** campaña de presentacion VENTAS
+- **Notas:** promocion de halloween carrusel, imagenes muy bonitas para la vista, muy atractivo para el cliente, funciono mucho para todas las fases.
+- **Categoría:** E - Urgencia/Escasez
+- **Campaña:** campaña de PROMOCION OCTUBRE 2025
 - **Fecha Creación:** 20/10/2025
-- **Copy:** "🍏 ¿Buscas un iPhone confiable? En Mister Manzana cada equipo viene con garantía real de 6 meses, no..."
+- **Copy:** "🎃 ¡OFERTA ESPECIAL HALLOWEEN! 
+iPhone 12 / Pro / Pro Max con 35% DE DESCUENTO
+Precios que DAN MIEDO..."
+
+#### iPhone PRO al mejor precio
+- **Estado:** ✅ Publicado
+- **Fase:** Evaluación
+- **Formato:** 🎥 Video
+- **Producto/Servicio:** iPhone PRO (General)
+- **Performance:** 🌟 Excelente
+- **Notas:** muy buen video, muy funcional y fue mas interactivo que el de presentación, desde el primer dia que se publico han escrito mucho, fue un buen trabajo.
+- **Categoría:** C - Valor gratis/incluido
+- **Campaña:** campaña evaluacion VENTAS
+- **Fecha Creación:** 20/10/2025
+- **Copy:** "📱 iPhone PRO al MEJOR precio en Mr Manzana
+13 Pro, 14 Pro y 14 Pro Max disponibles
+Calidad PRO a tu..."
+
+#### Últimas unidades - iPhone 13 Series
+- **Estado:** ✅ Publicado
+- **Fase:** Evaluación
+- **Formato:** 🖼️ Slideshow
+- **Producto/Servicio:** iPhone 13 Series
+- **Performance:** 🌟 Excelente
+- **Notas:** para ser una fase de presentación ha funcionado muy bien, fue una buena tactica usarlo.
+- **Categoría:** E - Urgencia/Escasez
+- **Campaña:** campaña evaluacion VENTAS
+- **Fecha Creación:** 20/10/2025
+- **Copy:** "🔥 ÚLTIMAS UNIDADES - iPhone 13 Series
+La oportunidad que estabas esperando.
+EL MEJOR CALIDAD-PRECIO..."
 
 #### 8 años construyendo confianza
 - **Estado:** ✅ Publicado
@@ -67,33 +83,17 @@ Venta + Servicio técnico en un solo lugar
 
 La experiencia Mr. Manz..."
 
-#### Últimas unidades - iPhone 13 Series
+#### ¿Buscas un iPhone confiable?
 - **Estado:** ✅ Publicado
-- **Fase:** Evaluación
-- **Formato:** 🖼️ Slideshow
-- **Producto/Servicio:** iPhone 13 Series
+- **Fase:** Presentación
+- **Formato:** 🎠 Carrusel
+- **Producto/Servicio:** iPhone (General)
 - **Performance:** 🌟 Excelente
-- **Notas:** para ser una fase de presentación ha funcionado muy bien, fue una buena tactica usarlo.
-- **Categoría:** E - Urgencia/Escasez
-- **Campaña:** campaña evaluacion VENTAS
+- **Notas:** funciona increíble, las cartas del carrusel se ven muy bien y es algo que para fase de presentación funciona excelente.
+- **Categoría:** A - Garantía como arma
+- **Campaña:** campaña de presentacion VENTAS
 - **Fecha Creación:** 20/10/2025
-- **Copy:** "🔥 ÚLTIMAS UNIDADES - iPhone 13 Series
-La oportunidad que estabas esperando.
-EL MEJOR CALIDAD-PRECIO..."
-
-#### iPhone PRO al mejor precio
-- **Estado:** ✅ Publicado
-- **Fase:** Evaluación
-- **Formato:** 🎥 Video
-- **Producto/Servicio:** iPhone PRO (General)
-- **Performance:** 🌟 Excelente
-- **Notas:** muy buen video, muy funcional y fue mas interactivo que el de presentación, desde el primer dia que se publico han escrito mucho, fue un buen trabajo.
-- **Categoría:** C - Valor gratis/incluido
-- **Campaña:** campaña evaluacion VENTAS
-- **Fecha Creación:** 20/10/2025
-- **Copy:** "📱 iPhone PRO al MEJOR precio en Mr Manzana
-13 Pro, 14 Pro y 14 Pro Max disponibles
-Calidad PRO a tu..."
+- **Copy:** "🍏 ¿Buscas un iPhone confiable? En Mister Manzana cada equipo viene con garantía real de 6 meses, no..."
 
 ---
 
@@ -101,21 +101,21 @@ Calidad PRO a tu..."
 
 #### ✅ Publicado (3)
 
-##### ¿Buscas un iPhone confiable? 🏆
-- **Formato:** 🎠 Carrusel
-- **Producto:** iPhone (General)
-- **Performance:** 🌟 Excelente
-- **Notas Performance:** funciona increíble, las cartas del carrusel se ven muy bien y es algo que para fase de presentación funciona excelente.
-- **Categoría:** A - Garantía como arma
-- **Campaña:** campaña de presentacion VENTAS
-- **Fecha:** 20/10/2025
-
 ##### 8 años construyendo confianza 🏆
 - **Formato:** 🎥 Video
 - **Producto:** iPhone (General)
 - **Performance:** 🌟 Excelente
 - **Notas Performance:** demasiado bueno, es un video con mucha calidad y siempre atrae mucho cliente este video.
 - **Categoría:** D - Experiencia y confianza
+- **Campaña:** campaña de presentacion VENTAS
+- **Fecha:** 20/10/2025
+
+##### ¿Buscas un iPhone confiable? 🏆
+- **Formato:** 🎠 Carrusel
+- **Producto:** iPhone (General)
+- **Performance:** 🌟 Excelente
+- **Notas Performance:** funciona increíble, las cartas del carrusel se ven muy bien y es algo que para fase de presentación funciona excelente.
+- **Categoría:** A - Garantía como arma
 - **Campaña:** campaña de presentacion VENTAS
 - **Fecha:** 20/10/2025
 
@@ -133,21 +133,21 @@ Calidad PRO a tu..."
 
 #### ✅ Publicado (4)
 
-##### Últimas unidades - iPhone 13 Series 🏆
-- **Formato:** 🖼️ Slideshow
-- **Producto:** iPhone 13 Series
-- **Performance:** 🌟 Excelente
-- **Notas Performance:** para ser una fase de presentación ha funcionado muy bien, fue una buena tactica usarlo.
-- **Categoría:** E - Urgencia/Escasez
-- **Campaña:** campaña evaluacion VENTAS
-- **Fecha:** 20/10/2025
-
 ##### iPhone PRO al mejor precio 🏆
 - **Formato:** 🎥 Video
 - **Producto:** iPhone PRO (General)
 - **Performance:** 🌟 Excelente
 - **Notas Performance:** muy buen video, muy funcional y fue mas interactivo que el de presentación, desde el primer dia que se publico han escrito mucho, fue un buen trabajo.
 - **Categoría:** C - Valor gratis/incluido
+- **Campaña:** campaña evaluacion VENTAS
+- **Fecha:** 20/10/2025
+
+##### Últimas unidades - iPhone 13 Series 🏆
+- **Formato:** 🖼️ Slideshow
+- **Producto:** iPhone 13 Series
+- **Performance:** 🌟 Excelente
+- **Notas Performance:** para ser una fase de presentación ha funcionado muy bien, fue una buena tactica usarlo.
+- **Categoría:** E - Urgencia/Escasez
 - **Campaña:** campaña evaluacion VENTAS
 - **Fecha:** 20/10/2025
 
@@ -174,20 +174,20 @@ Calidad PRO a tu..."
 
 #### ✅ Publicado (2)
 
-##### Halloween - iPhone 12 con 35% OFF 🏆
-- **Formato:** 🎠 Carrusel
-- **Producto:** iPhone 12
-- **Performance:** 🌟 Excelente
-- **Notas Performance:** promocion de halloween carrusel, imagenes muy bonitas para la vista, muy atractivo para el cliente, funciono mucho para todas las fases.
-- **Categoría:** E - Urgencia/Escasez
-- **Campaña:** campaña de PROMOCION OCTUBRE 2025
-- **Fecha:** 20/10/2025
-
 ##### Halloween - iPhone 13 Pro Max 35% OFF 🏆
 - **Formato:** 📸 Imagen
 - **Producto:** iPhone 13 Pro Max
 - **Performance:** 🌟 Excelente
 - **Notas Performance:** tambie muy buena y la hice con ia y han escrito muchisimo entonces me di cuenta de que la ia funciona si la sabemos usar en estos casos
+- **Categoría:** E - Urgencia/Escasez
+- **Campaña:** campaña de PROMOCION OCTUBRE 2025
+- **Fecha:** 20/10/2025
+
+##### Halloween - iPhone 12 con 35% OFF 🏆
+- **Formato:** 🎠 Carrusel
+- **Producto:** iPhone 12
+- **Performance:** 🌟 Excelente
+- **Notas Performance:** promocion de halloween carrusel, imagenes muy bonitas para la vista, muy atractivo para el cliente, funciono mucho para todas las fases.
 - **Categoría:** E - Urgencia/Escasez
 - **Campaña:** campaña de PROMOCION OCTUBRE 2025
 - **Fecha:** 20/10/2025
@@ -295,24 +295,24 @@ Muchos técnicos solo cambia..."
 - 🖼️ **Slideshow:** 1
 
 ### 🏷️ Por Categoría (Top 5):
-- **E - Urgencia/Escasez:** 3
 - **F - Problema > Solución:** 3
+- **E - Urgencia/Escasez:** 3
 - **A - Garantía como arma:** 2
-- **B - Servicio integrado:** 1
+- **C - Valor gratis/incluido:** 1
 - **G - Comparación inteligente:** 1
 
 ### 🎯 Por Producto/Servicio (Top 5):
 - **iPhone (General):** 3
 - **Diagnóstico Completo:** 2
+- **Cambio de Batería:** 1
+- **iPhone 13 Pro Max:** 1
 - **iPhone 12:** 1
-- **iPhone 13 Pro:** 1
-- **iPhone 13 Series:** 1
 
 ### 📢 Por Campaña:
 - **campaña evaluacion VENTAS:** 4
 - **campaña de presentacion VENTAS:** 3
-- **campaña de PROMOCION OCTUBRE 2025:** 2
 - **campaña de presentacion SERVICIO T Mr Manzana:** 2
+- **campaña de PROMOCION OCTUBRE 2025:** 2
 - **campaña evaluacion servicio tecnico:** 1
 
 ### 📊 Análisis de Rendimiento:

@@ -1,6 +1,6 @@
 # 🎬 GUÍA DE PRODUCCIÓN
 
-**Última sincronización:** 14/6/2026, 1:01:48
+**Última sincronización:** 16/6/2026, 1:54:23
 **Total de contenidos en guía:** 6
 
 ---
